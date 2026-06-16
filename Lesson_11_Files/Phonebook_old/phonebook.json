@@ -1,0 +1,53 @@
+{
+    "contacts": [
+        {
+            "first_name": "John",
+            "last_name": "Smith",
+            "phone_number": "951159159",
+            "city": "New York",
+            "state": "New York"
+        },
+        {
+            "first_name": "Emma",
+            "last_name": "Johnson",
+            "phone_number": "753357753",
+            "city": "Los Angeles",
+            "state": "California"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "phone_number": "741258963",
+            "city": "Chicago",
+            "state": "Illinois"
+        },
+        {
+            "first_name": "Vadim",
+            "last_name": "",
+            "phone_number": "",
+            "city": "Che",
+            "state": "Uk"
+        },
+        {
+            "first_name": "Valentyn",
+            "last_name": "Maiboroda",
+            "phone_number": "123456",
+            "city": "Che",
+            "state": "Uk"
+        },
+        {
+            "first_name": "Petro",
+            "last_name": "Schyr",
+            "phone_number": "22336655",
+            "city": "Lviv",
+            "state": "Uk"
+        },
+        {
+            "first_name": "Stepan",
+            "last_name": "Ylay",
+            "phone_number": "666666666",
+            "city": "China",
+            "state": "KNDR"
+        }
+    ]
+}
