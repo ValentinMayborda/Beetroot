@@ -112,7 +112,7 @@ def update_record(pb, phone_number, first_name, last_name, city, state):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-          print('For use: python task2.py phonebook.json')
+          print('For use: python phonebook.py phonebook.json')
           sys.exit(1)
 
     #phonebook = load_file('phonebook.json')

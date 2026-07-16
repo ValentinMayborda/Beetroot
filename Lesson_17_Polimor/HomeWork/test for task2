@@ -1,0 +1,53 @@
+if __name__ == "__main__":
+
+    # ===== CREATE AUTHOR =====
+    author1 = Author("George Orwell", "UK", "1903-06-25")
+    author2 = Author("J.K. Rowling", "UK", "1965-07-31")
+
+    # ===== CREATE LIBRARY =====
+    lib = Library("City Library")
+
+    # ===== ADD BOOKS =====
+    b1 = lib.new_book("1984", 1949, author1)
+    b2 = lib.new_book("Animal Farm", 1945, author1)
+    b3 = lib.new_book("Harry Potter 1", 1997, author2)
+    b4 = lib.new_book("Harry Potter 2", 1998, author2)
+
+    # ===== PRINT BASIC INFO =====
+    print(lib)
+    print(Book.count)
+
+    # ===== TEST: group_by_author =====
+    orwell_books = lib.group_by_author(author1)
+    print("\nBooks by Orwell:")
+    print(orwell_books)
+
+    assert len(orwell_books) == 2
+    assert b1 in orwell_books
+    assert b2 in orwell_books
+
+    # ===== TEST: group_by_year =====
+    books_1997 = lib.group_by_year(1997)
+    print("\nBooks from 1997:")
+    print(books_1997)
+
+    assert len(books_1997) == 1
+    assert b3 in books_1997
+
+    # ===== TEST: author.books relationship =====
+    print("\nAuthor books check:")
+    print(author1.books)
+
+    assert len(author1.books) == 2
+    assert b1 in author1.books
+    assert b2 in author1.books
+
+    # ===== TEST: Book count =====
+    assert Book.count == 4
+
+    # ===== TEST: __str__ / __repr__ =====
+    print("\nStr test:")
+    print(str(b1))
+    print(repr(b1))
+
+    print("\nAll tests passed ✔")
