@@ -1,0 +1,25 @@
+{
+    "contacts": [
+        {
+            "first_name": "Valentyn",
+            "last_name": "Maiboroda",
+            "phone_number": "0936358683",
+            "city": "Chernihiv",
+            "state": "Ukraine"
+        },
+        {
+            "first_name": "Veronika",
+            "last_name": "Dovko",
+            "phone_number": "0965287456",
+            "city": "Kyiv",
+            "state": "Ukraine"
+        },
+        {
+            "first_name": "olehh",
+            "last_name": "msmsms",
+            "phone_number": "0635895687",
+            "city": "che",
+            "state": "uk"
+        }
+    ]
+}

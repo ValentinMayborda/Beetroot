@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "ozs8qmq",
+        "subreddit": "learnpython",
+        "author": "my_password_is______",
+        "text": "OMG -- what if you DON'T want to print them ??? what if your goal is to use the sum in another function",
+        "created": "2026-07-26T03:13:08"
+    },
+    {
+        "id": "ozs8w0d",
+        "subreddit": "learnpython",
+        "author": "Enpeeare",
+        "text": "thanks for the link trying it out to try and get me some fresh lamb and goat from the farmers market website lol ",
+        "created": "2026-07-26T03:14:02"
+    },
+    {
+        "id": "ozs95u5",
+        "subreddit": "learnpython",
+        "author": "my_password_is______",
+        "text": "no, it is NOT worth clarifying that at all \n\nif the person doesn't even understand why \"return\" is needed then there is NO need to go into more detail about how return operates",
+        "created": "2026-07-26T03:15:41"
+    },
+    {
+        "id": "ozs99k0",
+        "subreddit": "learnpython",
+        "author": "insaaaaaaaan",
+        "text": "that's the prblm is that i still don't know why specifically i'm only learning to have basics in coding and programming cuz i don't know a lot in programming i've just started so i'm trying to have a know some basics like having the tools first then doing something with these tools",
+        "created": "2026-07-26T03:16:19"
+    },
+    {
+        "id": "ozs9g6a",
+        "subreddit": "learnpython",
+        "author": "crazy_cookie123",
+        "text": "But why did you choose to learn Python in the first place? What's your goal? ",
+        "created": "2026-07-26T03:17:25"
+    },
+    {
+        "id": "ozs9jo3",
+        "subreddit": "learnpython",
+        "author": "insaaaaaaaan",
+        "text": "appreciate it",
+        "created": "2026-07-26T03:18:01"
+    },
+    {
+        "id": "ozs9vdw",
+        "subreddit": "learnpython",
+        "author": "insaaaaaaaan",
+        "text": "cuz it isn't too hard to learn (as a language) and at the same time it's used in so many things",
+        "created": "2026-07-26T03:19:59"
+    },
+    {
+        "id": "ozsadzl",
+        "subreddit": "learnpython",
+        "author": "crazy_cookie123",
+        "text": "Let me rephrase. Why did you choose to learn *programming* in the first place? ",
+        "created": "2026-07-26T03:23:07"
+    },
+    {
+        "id": "ozsbnfl",
+        "subreddit": "learnpython",
+        "author": "insaaaaaaaan",
+        "text": "cuz it's necessary for cuz i'll study engineering in the next 5 years and it's some of the basics to code and if i start learning from now it will much easier than starting next years and as i told u learning python is just like having the tool",
+        "created": "2026-07-26T03:30:44"
+    },
+    {
+        "id": "ozsd4q0",
+        "subreddit": "learnpython",
+        "author": "crazy_cookie123",
+        "text": "If you want to use it for engineering then you should look for beginner-level projects related to engineering and try doing some of them. ",
+        "created": "2026-07-26T03:39:42"
+    },
+    {
+        "id": "ozseyy7",
+        "subreddit": "learnpython",
+        "author": "lakseol",
+        "text": "> I were performance obsessed I wouldn't be chasing Python.\n\nWhen I started learning python I worried about speed.  I knew that I could call C from python if necessary so I said \"that's my fallback\".  In 25 years of using python I have only once needed to write C to make a solution faster.\n\nIn addition there are fast and efficient libraries that can be used.  [`numpy` is one example](https://numpy.org/).  A long time ago I help maintain [the ANUGA hydrodynamic modelling tool](https://en.wikipedia.org/wiki/ANUGA_Hydro).  That does a lot of numerical calculations but it uses the `numpy`  library to handle operations on arrays of numbers, and `numpy` is written in vectorized,  fast C and Fortran.  A small amount of other low-level ANUGA code is written in C.  Sure, it could be faster if it was all written in a language like C/C++ but it's unclear if the improvement would be worth the change.  ANUGA is *fast enough*\u2122 as it is.\n\n> I think I'll miss RAII though\n\nPython automatically releases objects when they are no longer referenced.  That and things like automatic calling of [the `__del__()` method](https://zetcode.com/python/dunder-del/) of an instance when the instance is garbage-collected and [context managers](https://openpython.org/articles/python-context-managers-with-statement) give you most of what you will miss.",
+        "created": "2026-07-26T03:50:53"
+    },
+    {
+        "id": "ozshjc2",
+        "subreddit": "learnpython",
+        "author": "Longjumping_Fill_230",
+        "text": "Just use chat gpt. Tells you how to code. No study group needed ",
+        "created": "2026-07-26T04:06:45"
+    },
+    {
+        "id": "ozshpnc",
+        "subreddit": "learnpython",
+        "author": "lakseol",
+        "text": "You need to learn the rest of basic python, and functions are basic and important.  Most (all?) of the interesting things you can do with python require functions.\n\nTry following a defined sequence of learning, such as in [the official python tutorial](https://docs.python.org/3/tutorial/index.html).  It sounds like you are somewhere in section 4 of that tutorial, so skim from the start until you get to stuff you aren't familiar with.\n\n> kinda bored from learning\n\nYou need to be writing code to practice using what you have just learned.  Even that can be boring until you learn enough to start solving interesting problems.  Hang in there, it gets better.",
+        "created": "2026-07-26T04:07:50"
+    },
+    {
+        "id": "ozsi49b",
+        "subreddit": "learnpython",
+        "author": "Chemical_Glove315",
+        "text": "Pueod descargar este video [https://player.vimeo.com/video/1191937175?autoplay=1&dnt=1&app\\_id=122963](https://player.vimeo.com/video/1191937175?autoplay=1&dnt=1&app_id=122963)",
+        "created": "2026-07-26T04:10:22"
+    },
+    {
+        "id": "ozsisjb",
+        "subreddit": "learnpython",
+        "author": "lakseol",
+        "text": "Those two bits of code might print the same thing *when you execute them in your IDE* but that's because your IDE has a \"feature\" that automatically prints any non_`None` value of a statement.  Python itself doesn't do that, so if you execute both bits of code from the commandline one will print the result and one **won't**.",
+        "created": "2026-07-26T04:14:36"
+    },
+    {
+        "id": "ozsjx1u",
+        "subreddit": "learnpython",
+        "author": "Shot-Yellow-730",
+        "text": "I'm interested\u00a0",
+        "created": "2026-07-26T04:21:42"
+    },
+    {
+        "id": "ozsk66o",
+        "subreddit": "learnpython",
+        "author": "AccountEngineer",
+        "text": "yeah gschizas has the right idea about using res.content, that'll fix encoding guesswork. the mismatched tag error sounds like a server issue tho, not a speed problem. ime the server is probably sending you a non-xml response sometimes, like an html error or a rate limit page. you should log the raw response body when the parse fails. if it's anti-bot stuff, scrapfly handles it so you get clean xml every time. you gotta look at what the server is actually sending back.",
+        "created": "2026-07-26T04:23:19"
+    },
+    {
+        "id": "ozskroc",
+        "subreddit": "learnpython",
+        "author": "Jitsisadumbword",
+        "text": "Something tells me you own an unused cordless drill. ",
+        "created": "2026-07-26T04:27:05"
+    },
+    {
+        "id": "ozskvp0",
+        "subreddit": "learnpython",
+        "author": "insaaaaaaaan",
+        "text": "appreciate it\n\n",
+        "created": "2026-07-26T04:27:47"
+    },
+    {
+        "id": "ozsl8jt",
+        "subreddit": "learnpython",
+        "author": "oddly_uncomfortable5",
+        "text": "this group is for discussing different approaches, solving problems together, staying consistent, and learning from other people\u2019s thought processes. The community and live interaction are the main point.",
+        "created": "2026-07-26T04:30:03"
+    },
+    {
+        "id": "ozsnmah",
+        "subreddit": "programming",
+        "author": "dylanzt",
+        "text": "If they changed their statement to \"no successful software has ever been written\" then I would be tempted to agree at times.",
+        "created": "2026-07-26T04:45:15"
+    },
+    {
+        "id": "ozsnune",
+        "subreddit": "programming",
+        "author": "dylanzt",
+        "text": "All I'm hearing is that we need to set up scotsman.org and establish a rigorous program of training and certification.",
+        "created": "2026-07-26T04:46:45"
+    },
+    {
+        "id": "ozso59y",
+        "subreddit": "programming",
+        "author": "Norphesius",
+        "text": "I think the pilot analogy is more so about \"being in the air\" and having to make decisions on the move. Most software nowadays is live, a change of requirements or a bug has to be dealt with while users have the product. You don't get to \"land the plane\", stopping your service and telling all the users to take a break for a few moths while you figure out the problem.",
+        "created": "2026-07-26T04:48:38"
+    },
+    {
+        "id": "ozso97b",
+        "subreddit": "programming",
+        "author": "zbend",
+        "text": "Correct, Agile pre dates the scrum variety of agile and scrum is a compromised version of it, a bastardized version if you ask me, it was created to give business essentially mini waterfalls I.e. sprints with hard deadlines which they love, but somehow keeping the flexibility of change needed to actually have a successful software project via allowing these changes in the next sprint, in turn not destroying your deadline, a mini deadline in this case. I'm guessing the author has only ever used the scrum flavor of agile/lean.",
+        "created": "2026-07-26T04:49:19"
+    },
+    {
+        "id": "ozsoarm",
+        "subreddit": "programming",
+        "author": "ZachIllusions",
+        "text": "What I see increasing in my own daily work isn\u2019t even \u201ceveryone has a voice.\u201d It\u2019s becoming more - management wants to see a change or process and the expert\u2019s opinions are ignored. \n\nWe\u2019re moving dirt for no reason other than someone said to move the dirt. If you ask why we have to move dirt, you\u2019re told that X writes the checks and wants to see dirt being moved. ",
+        "created": "2026-07-26T04:49:35"
+    },
+    {
+        "id": "ozsog96",
+        "subreddit": "programming",
+        "author": "nick0n1",
+        "text": "No true Scotsman.\n\nI'm not defending this person's views or points, but if many if not most companies don't or can't implement it \"correctly\", then there is a problem with the framework.",
+        "created": "2026-07-26T04:50:35"
+    },
+    {
+        "id": "ozsojyq",
+        "subreddit": "programming",
+        "author": "dylanzt",
+        "text": "Actually, scrum predates agile by half a decade. It's clear from the OP's post they've never even worked with scrum correctly, let alone agile frameworks more broadly.\n\nEdit: although to be fair it is a little fuzzy, these concepts were obviously kicking around a bit before their formalization.",
+        "created": "2026-07-26T04:51:15"
+    },
+    {
+        "id": "ozsok2h",
+        "subreddit": "programming",
+        "author": "BlimpIntolerant",
+        "text": "Scrum maybe has a postive effect if you have a team of mediocre developers.  But it totally disincentivises the star performers who do 90% of the meaningful work",
+        "created": "2026-07-26T04:51:16"
+    },
+    {
+        "id": "ozsorth",
+        "subreddit": "programming",
+        "author": "emperorOfTheUniverse",
+        "text": "Nobody does standup right. I've only ever known one guy who did standup right, and it's because it was weekly and run by a dev instead of a PM. He just said, 'im working on this/that. Asked any questions he had. And then gave everyone a chance to do the same. As in literally saying 'anyone need anything?'. It was often a 5 minute meeting. \n\nEverything else is a god damn status meeting. Mandatory that a PM goes around and makes everyone talk, ensuring that everyone has to appear busy so only work that makes you look good in standup gets done.",
+        "created": "2026-07-26T04:52:41"
+    },
+    {
+        "id": "ozspcpv",
+        "subreddit": "programming",
+        "author": "perforatedcode",
+        "text": "I'm an engineer and I absolutely love scrum when implemented properly. I was skeptical at first and initially hated but it really grew on me. Most companies I've worked at do not implement it correctly and then everything falls apart and it becomes meaningless. I think there are huge misunderstanding about scrum and most people's experience is a shitty faux version of it that is not effective.\u00a0",
+        "created": "2026-07-26T04:56:28"
+    },
+    {
+        "id": "ozsq2f7",
+        "subreddit": "programming",
+        "author": "perforatedcode",
+        "text": "This is a misunderstanding of scrum. There are huge benefits for developers. Most developers have never worked with proper scrum but when implemented properly, it's great for devs.\u00a0\n\nWhen scope is defined for a sprint and to redefine scope requires a ticket to go through planning ceremony, and managers and scrum masters protect devs from stakeholders from changing scope, that's way better for a dev. A dev can focus and get their work done without having to search for specs or worry about scope. When a dev finishes their work for the sprint, they can chill.\u00a0",
+        "created": "2026-07-26T05:01:07"
+    },
+    {
+        "id": "ozsq713",
+        "subreddit": "programming",
+        "author": "PhaseMatch",
+        "text": "As soon as you are bringing teams features to implement not business problems to solve Scrum is a waste of time;  you are not using it to manage business/investment risk, and it becomes a lot of empty meetings.\n\nYou want to count tickets?  Use Kanban.",
+        "created": "2026-07-26T05:01:57"
+    },
+    {
+        "id": "ozsqfpo",
+        "subreddit": "programming",
+        "author": "zbend",
+        "text": "Huh always thought it was a reaction to agile but it's well before the manifesto, I'm sure not the lean Toyota processes and such but in the context of agile I mean the manifesto so yeah well after, I wonder when the first \"certified scrum\" certificate scam became a thing",
+        "created": "2026-07-26T05:03:33"
+    },
+    {
+        "id": "ozsqj26",
+        "subreddit": "learnpython",
+        "author": "LettuceTomatoOnion",
+        "text": "Udemy is pretty good",
+        "created": "2026-07-26T05:04:12"
+    },
+    {
+        "id": "ozsqmt1",
+        "subreddit": "programming",
+        "author": "PhaseMatch",
+        "text": "That's why non-technical skills matter for technical teams.  \nIf you want an effective team, then train people with all the skills they need.  \nCore ones are communication, negotiation and conflict resolution.\n\n",
+        "created": "2026-07-26T05:04:54"
+    },
+    {
+        "id": "ozsqx74",
+        "subreddit": "programming",
+        "author": "waffle299",
+        "text": "We're still trying to shoehorn scrum into a larger waterfall approach. Scrum is how stories are addressed. Everything above that is a mish mash of waterfall and presentations on the lack of progress.",
+        "created": "2026-07-26T05:06:49"
+    },
+    {
+        "id": "ozsredm",
+        "subreddit": "programming",
+        "author": "Knight_Of_Stars",
+        "text": "Scrum can be done be done either well or poorly. When Scrum works well you never notice it, when its done badly you notice all the time. Someone here posted a really good point about Scrum being an entire culture shift and thats right. You need buy in from the business. I think Scrum fails because not enough is expected from the stakeholders.",
+        "created": "2026-07-26T05:10:01"
+    },
+    {
+        "id": "ozsrwvp",
+        "subreddit": "programming",
+        "author": "notmarc1",
+        "text": "Eh \u2026. Scrum was meant as a  small colated effort. Worked fine before program mgrs took it and water-falled it. Now i have to practice scrum and plan out for 3 months at a time and get yelled at when I try to re-prioritize. There is no continuous improvement because they still have projects that \u201cend\u201d because first delivery iteration deployed. There is no org change that allows for products to exist. Business just simply ruined it ",
+        "created": "2026-07-26T05:13:26"
+    },
+    {
+        "id": "ozsst80",
+        "subreddit": "programming",
+        "author": "myndit",
+        "text": "So what if not scrum /agile?",
+        "created": "2026-07-26T05:19:28"
+    },
+    {
+        "id": "ozssxqm",
+        "subreddit": "programming",
+        "author": "jetsonian",
+        "text": "One big issue I\u2019ve always had with agile development is that it requires management to heavily divide up tasks but they end up delegating it to a senior dev who already has enough on their plate. The end result is tasks are too big for a sprint and either never get done or lower developers get blamed for not finishing tasks in a timely manner.",
+        "created": "2026-07-26T05:20:18"
+    },
+    {
+        "id": "ozsszoe",
+        "subreddit": "programming",
+        "author": "Robodobdob",
+        "text": "In my experience, \u201cagile\u201d as a concept has to be an organisation-level change. When the business is operating on fixed, three-year roadmaps, any form of agile at the development level becomes performative.\n\nI think there is value is getting work done and in customers hands as soon as possible. But this can be done without the agile theatre.",
+        "created": "2026-07-26T05:20:40"
+    },
+    {
+        "id": "ozst10t",
+        "subreddit": "learnpython",
+        "author": "Buffylvr",
+        "text": "ask claude. explain what you don't understand, then ask it to create you problems that increase in difficulty to help you reach the solution.\n\nit's going to try to create the solution for you, cause that's how it was designed. You have to tell it not to do that but to teach you how to think about the problem so you can solve it yourself.",
+        "created": "2026-07-26T05:20:56"
+    },
+    {
+        "id": "ozstbc3",
+        "subreddit": "programming",
+        "author": "slugabedx",
+        "text": "Yes exactly. As it says in the Agile Manifesto: Individuals and interactions over processes and tools. Or as I prefer to say \"People over process\". ",
+        "created": "2026-07-26T05:22:51"
+    },
+    {
+        "id": "ozstk7a",
+        "subreddit": "learnpython",
+        "author": "FitFaithlessness2075",
+        "text": "I'm interested ",
+        "created": "2026-07-26T05:24:31"
+    },
+    {
+        "id": "ozstwcz",
+        "subreddit": "programming",
+        "author": "mrisamy",
+        "text": "they shouldn't have to convince a bunch of software engineers to take algorithmic proof as science when they follow their feelings",
+        "created": "2026-07-26T05:26:48"
+    },
+    {
+        "id": "ozsu6ky",
+        "subreddit": "learnpython",
+        "author": "AdAdvanced7673",
+        "text": "This is a troll, right?",
+        "created": "2026-07-26T05:28:42"
+    },
+    {
+        "id": "ozsu9zn",
+        "subreddit": "programming",
+        "author": "mrisamy",
+        "text": "not to nention ridicukous meetings where we vote on things that should not be voted on, like how long it will take someone else to do a task I have no knowledge or expertise on, just based on gut feelings",
+        "created": "2026-07-26T05:29:21"
+    },
+    {
+        "id": "ozsup0m",
+        "subreddit": "programming",
+        "author": "aelfwine_widlast",
+        "text": "Spot on. Agile has been waterfalled beyond recognition at most shops.",
+        "created": "2026-07-26T05:32:11"
+    },
+    {
+        "id": "ozsuvq8",
+        "subreddit": "programming",
+        "author": "Revolutionary-Ad-65",
+        "text": "This post gets a score of \"100% AI-generated\" on Pangram: https://www.pangram.com/history/8264f76f-1764-4404-bad0-48a904adf90e",
+        "created": "2026-07-26T05:33:26"
+    },
+    {
+        "id": "ozsuxzm",
+        "subreddit": "programming",
+        "author": "GothicFuck",
+        "text": "You mean the organization needs to invest in upskilling their experts in persuasion so that their experts's can fight with non-expert colleagues with natural persuasiveness to get their expert ideas to be heard. Sounds like a poorly designed *organizational* structure.",
+        "created": "2026-07-26T05:33:52"
+    },
+    {
+        "id": "ozsvw9d",
+        "subreddit": "programming",
+        "author": "zbignew",
+        "text": "You read to far! Because that quote is past this one:\n\n\\> Scrum didn\u2019t make teams faster or more adaptive.\n\nThat\u2019s not the point of Scrum, or Agile. They were intended to make projects more valuable and reliable.\n\nPre-Agile, most businesses would make *bad* waterfall plans, and refuse to invest their own attention in a project, so they were unpredictable and prone to failure. \n\nIf waterfall projects are perfectly specified and planned and managed, they are faster and more adaptable. Almost by definition. That\u2019s just impossible for most businesses to achieve. \n\nAgile and Scrum are contracts between a project team and its business sponsor, where the business knows that if it fulfills a short list of obligations, it will get reliable progress towards a project\u2019s goals.\n\nAnd then lots of engineers think \u201cagile\u201d means fast. It\u2019s faster than a *bad* waterfall plan and *bad* management, and most businesses have no ability to make a good waterfall plan or manage well.",
+        "created": "2026-07-26T05:40:20"
+    },
+    {
+        "id": "ozsw5kk",
+        "subreddit": "programming",
+        "author": "Skyzfallin",
+        "text": "Scum.",
+        "created": "2026-07-26T05:42:06"
+    },
+    {
+        "id": "ozswldu",
+        "subreddit": "programming",
+        "author": "Recipe_Least",
+        "text": "Heres the truth. I dont care how many efficiencies you have or implement. If you dont have enough people to actually do the work, you just take longer to have management hide behind cs  while the client gets the \"good news\" that the bug you jntroduced has to wait until next deploy to be fixed.\n\nScrum, agile, jad, rad, etc. All fads.",
+        "created": "2026-07-26T05:45:06"
+    },
+    {
+        "id": "ozswlro",
+        "subreddit": "programming",
+        "author": "programming-ModTeam",
+        "text": "No content written mostly by an LLM. If you don't want to write it, we don't want to read it.",
+        "created": "2026-07-26T05:45:10"
+    },
+    {
+        "id": "ozswt10",
+        "subreddit": "programming",
+        "author": "Ma1eficent",
+        "text": "I love bloom filters when the false positive is no harm.",
+        "created": "2026-07-26T05:46:33"
+    },
+    {
+        "id": "ozsx1yy",
+        "subreddit": "programming",
+        "author": "OctaBit",
+        "text": "It's funny how many complaints in this thread keep coming back to that. I feel like there's a pattern...",
+        "created": "2026-07-26T05:48:14"
+    },
+    {
+        "id": "ozsx3q5",
+        "subreddit": "PythonLearning",
+        "author": "ninhaomah",
+        "text": "Ok then I ask you.\n\nI need to get the id , name and dollar amount and save them together for 10 or so customers in my app.\n\nTell me what are the datatypes I should use in this instance.",
+        "created": "2026-07-26T05:48:35"
+    },
+    {
+        "id": "ozsxad4",
+        "subreddit": "PythonLearning",
+        "author": "Corruptionss",
+        "text": "Brainstorm random projects while you work, don't go through tutorials, just see what it takes to program it. Use your work to be motivation for what random projects you come up with ",
+        "created": "2026-07-26T05:49:51"
+    },
+    {
+        "id": "ozsxbg8",
+        "subreddit": "programming",
+        "author": "rafuru",
+        "text": "Why mods allow sh*tty ai-slop posts? ",
+        "created": "2026-07-26T05:50:04"
+    },
+    {
+        "id": "ozsxvw8",
+        "subreddit": "programming",
+        "author": "UnbiasedAgainst",
+        "text": "What is the alternative? The universe magically decides who is expert and who is novice? Experts constantly dictate and never explain, and novices remain novices forever.\n\nIf you're not good at explaining yourself, you're not going to go very far in any organisation, to the extent that working at that organisation involves working with other people.",
+        "created": "2026-07-26T05:53:57"
+    },
+    {
+        "id": "ozsyu4e",
+        "subreddit": "programming",
+        "author": "balefrost",
+        "text": "I suspect that most Scrum failures are just general management failures. Like, with bad management, it doesn't matter _what_ process you use. You'll end up with lousy results.\n\nScrum's rooted in agile. If a company embraces an agile mindset, then any team should feel empowered to say \"Scrum's not working for us; we're going to use X instead.\" \n\nIn you're in an environment where a team can't do that, then it's likely that Scrum will not produce good results. The problem isn't the process; it's the mindset.",
+        "created": "2026-07-26T06:00:28"
+    },
+    {
+        "id": "ozsyw7d",
+        "subreddit": "learnpython",
+        "author": "Weltal327",
+        "text": "I don\u2019t memorize almost any code. Anything I build gets copied and built into something else eventually. I learned one time how to import requests and do an API call so anytime I do that, I pull up that last time and copy it and replace it with the new API information. Okay, now the new on requires authorization, let\u2019s build that and all the helper functions that go with that. Now I\u2019m carrying this robust requests .py file I use for all of my projects. \n\nNow\u2026 I did not go to school and I don\u2019t know what memorization is required for school, but also, when you keep your files and re-use them\u2026 you know what they do and what they are for\u2026 memorization probably comes quickly after if cramming for a test. ",
+        "created": "2026-07-26T06:00:52"
+    },
+    {
+        "id": "ozszwm8",
+        "subreddit": "PythonLearning",
+        "author": "Flanelostopy",
+        "text": "This was just little fun as I said. It can be more simple, but if you want to make more data during this operation you can just put code there. You must predict growing application. Think about it when you want to give price for each drink with sugar or without it. This is good exorcise for it. First of all this whole structure can be more generic, maybe 2 or tree simple function can resolve whole problem. I will put shortest way maybe tomorrow I will give you a time.",
+        "created": "2026-07-26T06:07:45"
+    },
+    {
+        "id": "ozszwsm",
+        "subreddit": "programming",
+        "author": "balefrost",
+        "text": "> Any well known methodology works if the people are working together and willing to be flexible instead of rigid when issues with the methodology arise.\n\nAgile. You just described agile. \n\nApart from the anecdote in the sibling comment, the claim isn't \"you can't successfully build software with waterfall\". It's \"by-the-book waterfall is less efficient than a more flexible process\".",
+        "created": "2026-07-26T06:07:47"
+    },
+    {
+        "id": "ozt0lvj",
+        "subreddit": "programming",
+        "author": "balefrost",
+        "text": "My complaint is that Scrum over-emphasizes sprint boundaries, leading to weird effects both before and after the boundary. The way it encourages you to \"pack\" your sprint to hit your predicted velocity leads to annoying priority inversions, where you have to pick a small but lower priority item for the next sprint, delaying the start on the more important but larger item (or you have to arbitrarily break up a reasonably sized item just because it happens to straddle a sprint boundary).\n\nI've never done Kanban, but its emphasis on \"continuous flow\" feels far more natural to me.",
+        "created": "2026-07-26T06:12:37"
+    },
+    {
+        "id": "ozt0mxa",
+        "subreddit": "PythonLearning",
+        "author": "WhaleBird1776",
+        "text": "It\u2019s hard to learn how to program even without a full time job bud lol.\n\nBut let me tell ya, most things that are \u201cworth it\u201d are hard in my experience. ",
+        "created": "2026-07-26T06:12:49"
+    },
+    {
+        "id": "ozt0syj",
+        "subreddit": "programming",
+        "author": "Sammy81",
+        "text": "[https://www.reddit.com/r/ProgrammerHumor/comments/d9415i/this\\_dilbert\\_is\\_relevant\\_at\\_work\\_frequently\\_but\\_i/#lightbox](https://www.reddit.com/r/ProgrammerHumor/comments/d9415i/this_dilbert_is_relevant_at_work_frequently_but_i/#lightbox)",
+        "created": "2026-07-26T06:14:01"
+    },
+    {
+        "id": "ozt0tkz",
+        "subreddit": "PythonLearning",
+        "author": "Anonymous-Eagle",
+        "text": "I\u2019m pretty much legally retarded if I can do it, you can do it. Blessings brotha.",
+        "created": "2026-07-26T06:14:07"
+    },
+    {
+        "id": "ozt16or",
+        "subreddit": "PythonLearning",
+        "author": "armyrvan",
+        "text": "What I would do is I would learn a topic and then have AI quiz me and have it review my code for me. For example, if you're learning something about loops, you can ask the AI, \"Give me a couple challenge questions that would involve loops,\" and then have it evaluate your answer and ask, \"Could it be done in a more efficient way?\" \n\nOtherwise, the thing that helps a lot of people out is pair programming. Find a buddy or find a coach that could help you out. ",
+        "created": "2026-07-26T06:16:40"
+    },
+    {
+        "id": "ozt1o8g",
+        "subreddit": "PythonLearning",
+        "author": "fiftybengt",
+        "text": "You have to find a way to implement it. Why do you want to learn python? Let's say you are now fluent in Python. Now what? If you don't have the time to learn it how will you have the time to maintain it? Make a decision,  either you program or you don't.\n\nIt will be \"hard\" to learn and you will have to keep yourself sharp. Hard is good, when your brain hurts thats when you actually learn. Anything else is not learning and you are completely wasting your time, aka watching videos,  watching progaming memes, being in the space but not actually writing code. Even writing your post is a complete waste of time and you will not learn python from it.",
+        "created": "2026-07-26T06:20:07"
+    },
+    {
+        "id": "ozt1u1b",
+        "subreddit": "learnpython",
+        "author": "Brian",
+        "text": "This does not seem like a correct solution.  I mean, it's going to return len(nums) every time, no matter the values.  Where is it from?  Before trying to understand something, check it actually *does* what you want.  Eg. try running it against the example inputs and check it gives the expected output.\n\nIn any case, when solving problems like this, your first step should be to forget the computer.  Start with pen and paper and try to step through solving the problem yourself, paying attention to the strategy you're using.  Suppose you want to see the maximum 1s with k flips, starting at a particular position - how would you do it?\n\nWell, we could start there and count until we hit `k` zeroes.  After that, we've no flips left.  Eg for the first example:\n\n    11100011110\n    ^  FF\n    |       \n    |- start\n\nWe used both flips, on those 2 zeros, so our score is 5.  We could then repeat this starting at the second position and so on, and track our best score.  The best result we get at the end is our answer.  This will work, but it's a bit of an inefficient solution.  I mean, if we're starting at the second `1` in a group, we already know we could have done 1 better with the previous start position.  So we really only need to try starting from the **first** one of a group, or possibly from a `0` (since at the end of the chain, we might have no more `0`'s to flip before running out of our flip budget.\n\nWe could go further though.  Often valuable in solving problems like this is to try looking at it in new ways that preserves the equivalences the problem requires.  Ie. since we know we don't care about anything but the first 1 in a chain of groups, maybe we should think not of the original string, but at chains of **groups**, separated by 0s.\nEg. instead of` 11100011110`, we could describe this sequence as `[3, 0, 0, 4, 0]` where each number is the number of `1`s in a chain before we write a 0 (or reach the end).  (Some of the groups are 0 size, because we represet \"00\" as having a 0-lenth sequence of `1`s between them)\n\nWith this view, \"flipping 2 0's\" is equivalent to **joining** 3 groups together (and adding 2 for the zeroes we flipped), so we could sum each set of 3 consecurive groups (+2) and find the biggest of *those*.",
+        "created": "2026-07-26T06:21:14"
+    },
+    {
+        "id": "ozt2idr",
+        "subreddit": "PythonLearning",
+        "author": "Samar__Upreti",
+        "text": "Thanks I'll remember next time ",
+        "created": "2026-07-26T06:26:02"
+    },
+    {
+        "id": "ozt2k9k",
+        "subreddit": "PythonLearning",
+        "author": "silly_bet_3454",
+        "text": "you have 10 minutes to sit around feeling bad for yourself and write this post, you ought to have 10 minutes to just start learning, it's really not hard at all, just google \"python tutorial\" and click the first thing",
+        "created": "2026-07-26T06:26:25"
+    },
+    {
+        "id": "ozt2mvc",
+        "subreddit": "PythonLearning",
+        "author": "bad-gut",
+        "text": "Dictionary??",
+        "created": "2026-07-26T06:26:56"
+    },
+    {
+        "id": "ozt384s",
+        "subreddit": "learnpython",
+        "author": "MarionADelgado",
+        "text": "Am I a bad person because I laughed out loud at the idea of what the \"return\" function would do??  Like, you're overloading return to make it return plus it has the old python 2 syntax so ... I guess def return x: \\[tab\\] return x. Scope nightmare. Probably endless loop.",
+        "created": "2026-07-26T06:31:08"
+    },
+    {
+        "id": "ozt3rbx",
+        "subreddit": "learnpython",
+        "author": "ugotsnipedgaming",
+        "text": "Awful lot of em dashes in that description",
+        "created": "2026-07-26T06:34:59"
+    },
+    {
+        "id": "ozt4avi",
+        "subreddit": "learnpython",
+        "author": "binomine",
+        "text": "I want to make it more complicated instead of simple. \n\nIn Model - View - Controller architecture, you separate your program into three parts. \n\nOne part is the \"View\", which is just in charge of what the users sees. \n\nOne part is the \"Controller\", which is what the user is inputting. \n\nOne part is the \"Model\", which is the actual math-y part that takes all the inputs and does whatever your program does. \n\nSo with a typical program, the Controller grabs what the user wants, sends it to the model, which then returns it back to the controller and the controller sends it to the view. \n\nIt would be needlessly complicated for what you are doing now to do that, but if you had a large company, each part could be worked on a the same time. Or if you decide to go to iOS instead of windows, you can just rewrite the view and leave everything else. \n\nAnd that is why you have functions and returns, because it allows you to divide code like that. I mean, you are right, it is totally possible to. spaghetti your code all together and have it work. However, if you need to rewrite it or just debug it, it is easier if everything is in one place rather than hunting over the entire codebase.",
+        "created": "2026-07-26T06:38:53"
+    },
+    {
+        "id": "ozt4n5q",
+        "subreddit": "learnpython",
+        "author": "FoolsSeldom",
+        "text": "Ok. We disagree. I think it is hard to understand `return` without knowing this. To that end, I made a root comment to the OP to provide more detail on this and a link to a guide on scope. Given lack of follow-up so far from the OP, you may well be right, though.",
+        "created": "2026-07-26T06:41:24"
+    },
+    {
+        "id": "ozt4stq",
+        "subreddit": "learnpython",
+        "author": "FoolsSeldom",
+        "text": "What ages are those grades? Interesting that there is a focus on Java.",
+        "created": "2026-07-26T06:42:34"
+    },
+    {
+        "id": "ozt53il",
+        "subreddit": "learnpython",
+        "author": "Dr3ddM3",
+        "text": "There are free online programs like Cs50p I would recommend to do them. ",
+        "created": "2026-07-26T06:44:45"
+    },
+    {
+        "id": "ozt57pk",
+        "subreddit": "learnpython",
+        "author": "Silver-Breakfast3785",
+        "text": "Okk il try",
+        "created": "2026-07-26T06:45:36"
+    },
+    {
+        "id": "ozt5hkn",
+        "subreddit": "learnpython",
+        "author": "Easy-Ad9050",
+        "text": "I love seeing stuff like this",
+        "created": "2026-07-26T06:47:36"
+    },
+    {
+        "id": "ozt6dfb",
+        "subreddit": "PythonLearning",
+        "author": "Effective-Ad-8384",
+        "text": "Tried cs50p?",
+        "created": "2026-07-26T06:54:05"
+    },
+    {
+        "id": "ozt721e",
+        "subreddit": "PythonLearning",
+        "author": "silly_bet_3454",
+        "text": "This is exactly the wrong takeaway. They are saying you do not need to think about some deep theoretical understanding, they are just tools. you need to do a thing, you use a tool to do the thing. Then your response is \"ok I just need more theory\" No that's exactly what you do not need. You need practice. Just stop looking at the theory and try to make some programs. Write 10 working programs and you will know all these things like the back of your hand, it will be exceedingly obvious.\n\nThey're also all super intuitive, a list is just a list, like a grocery list, you give me bunch of stuff I just throw it in a list. But a map is like a mapping, you give it a key and you get a value. For example imagine you wanted to take someone's name and be able to map it to a phone number, you could throw names and phone numbers in a map. It's just a mapping. That's all the theory, now just go do it.",
+        "created": "2026-07-26T06:59:12"
+    },
+    {
+        "id": "ozt72q4",
+        "subreddit": "learnpython",
+        "author": "Reasonable-Table9440",
+        "text": "Codecademy has free python courses ",
+        "created": "2026-07-26T06:59:20"
+    },
+    {
+        "id": "ozt8d13",
+        "subreddit": "PythonLearning",
+        "author": "DustAutomatic5064",
+        "text": "i am intrestred please dm me\n\n",
+        "created": "2026-07-26T07:09:02"
+    },
+    {
+        "id": "ozt8h6f",
+        "subreddit": "PythonLearning",
+        "author": "DustAutomatic5064",
+        "text": "interested please dm me\n\n",
+        "created": "2026-07-26T07:09:54"
+    },
+    {
+        "id": "ozt8lzs",
+        "subreddit": "PythonLearning",
+        "author": "DustAutomatic5064",
+        "text": "hey can you teach me that\n\n",
+        "created": "2026-07-26T07:10:55"
+    },
+    {
+        "id": "ozt8mrz",
+        "subreddit": "PythonLearning",
+        "author": "Commercial-Paper749",
+        "text": "Done",
+        "created": "2026-07-26T07:11:05"
+    },
+    {
+        "id": "ozt8vzd",
+        "subreddit": "programming",
+        "author": "chibuku_chauya",
+        "text": "Carbon will be the one to deliver the knockout-blow to Rust. ",
+        "created": "2026-07-26T07:13:02"
+    },
+    {
+        "id": "ozt9com",
+        "subreddit": "learnpython",
+        "author": "Riegel_Haribo",
+        "text": "> Given a binary array nums and an integer k, return the maximum number of consecutive 1's in the array if you can flip at most k 0's.\n\nYou will need to translate the type of data objects described into Python terminology here, and then also clarify for yourself what \"flip\" means.\n\nbinary array = In Python, the only built-in type that is similar to binary is a boolean, the values of which are True or False. An array would be a list in Python.\n\nSo you have to go to examples of `nums` and see that they are essentially a list of integers that can be 1 or 0. A \"flip\" here is not bit flips, alternating the value of a bit, but in Python, that same seen list would simply be integers, where you are allowed to change the values 0 into one.\n\nThe key to understanding can only come from the examples that come later, as the wording of the word problem is shit. You are allowed to skip past 1 when it is already set in a list, and change 0 values to 1 when they have 1s between them.\n\nResult: You have a list of 1s and 0s, such as [1,1,1,0,0,0,1,1,1]. I also provide you the number of 0s where you can change them to 1, but you must progress sequentially through the 0s, flipping them, but can start changing the alloted count of 0s at an optimum point. You provide the maximum value of 1s in a row. For that list, if I give you only one \"k\" flip, you can complete 4 1s in a row at the start or at the end.",
+        "created": "2026-07-26T07:16:35"
+    },
+    {
+        "id": "ozt9rv4",
+        "subreddit": "PythonLearning",
+        "author": "bad-gut",
+        "text": "Okk understood your explanation and wouldn't fuss about datatypes anymore.  \nThanks!!!",
+        "created": "2026-07-26T07:19:49"
+    },
+    {
+        "id": "oztahaw",
+        "subreddit": "learnpython",
+        "author": "Stunning-Apple-4193",
+        "text": "I get why it might come across that way \ud83d\ude05. I'm not looking to copy someone's project idea. I'm trying to understand real pain points people face in their workflows. The package design, implementation, and solution would still be my own. I'd rather build something genuinely useful than invent a problem just for the sake of having an \"original\" idea.",
+        "created": "2026-07-26T07:25:17"
+    },
+    {
+        "id": "oztau0h",
+        "subreddit": "PythonLearning",
+        "author": "rAcTiV3_BRAIN-C3LL",
+        "text": "I'm in , I was looking for a study partner too(\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
+        "created": "2026-07-26T07:28:02"
+    },
+    {
+        "id": "oztb1d9",
+        "subreddit": "PythonLearning",
+        "author": "rAcTiV3_BRAIN-C3LL",
+        "text": "Dm me too , man i was looking for a study partner too (\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
+        "created": "2026-07-26T07:29:38"
+    },
+    {
+        "id": "oztb28c",
+        "subreddit": "PythonLearning",
+        "author": "Ok_Foot6505",
+        "text": "I'm ",
+        "created": "2026-07-26T07:29:49"
+    },
+    {
+        "id": "oztbadk",
+        "subreddit": "PythonLearning",
+        "author": "Commercial-Paper749",
+        "text": "Done check",
+        "created": "2026-07-26T07:31:35"
+    },
+    {
+        "id": "oztbp1f",
+        "subreddit": "programming",
+        "author": "yonasismad",
+        "text": "\"keep refresh tokens in a database\" ....  \"stateless\" \n\nOnce you start storing state it's obviously not stateless anymore. ",
+        "created": "2026-07-26T07:34:47"
+    },
+    {
+        "id": "oztcaol",
+        "subreddit": "programming",
+        "author": "Zaphoidx",
+        "text": "What? You're the one replying to a week-old thread...",
+        "created": "2026-07-26T07:39:26"
+    },
+    {
+        "id": "oztcc9y",
+        "subreddit": "programming",
+        "author": "Wiltix",
+        "text": "\\> Scrum assumes that a sprint backlog should remain fixed. That might sound logical in theory, but in reality requirements shift every few days. What seemed like the top priority at the start of the week can already be irrelevant by the end of it. The result is wasted work and frustrated developers.\n\nScrum does not automatically fix shit businesses, if a business does not understand the concept of planning then it\u2019s going to fail with any process other than no process. ",
+        "created": "2026-07-26T07:39:47"
+    },
+    {
+        "id": "oztcqh5",
+        "subreddit": "programming",
+        "author": "314159Man",
+        "text": "My problem is not with the manifesto but with man. Just like the difference between the teachings of Jesus and organised religion (I'm not religious but I'm also not blind).",
+        "created": "2026-07-26T07:42:52"
+    },
+    {
+        "id": "oztcxjm",
+        "subreddit": "PythonLearning",
+        "author": "Odd-Indication-611",
+        "text": "Yes I am interesting, pls dm me",
+        "created": "2026-07-26T07:44:24"
+    },
+    {
+        "id": "oztcy3z",
+        "subreddit": "PythonLearning",
+        "author": "Mindless-Finish2343",
+        "text": "interested \ud83e\udd20",
+        "created": "2026-07-26T07:44:31"
+    },
+    {
+        "id": "oztd5yb",
+        "subreddit": "programming",
+        "author": "Wiltix",
+        "text": "You have touched on one of the biggest problems I have with scrum / agile and that\u2019s the industry that has popped up around to try and train people to work in scrum / agile ways. \n\nThe training courses are often highly opinionated and incorrect. Like they have to do the hard sell because it validates their job which in turn teaches the wrong thing to those on the courses. ",
+        "created": "2026-07-26T07:46:16"
+    },
+    {
+        "id": "oztdl14",
+        "subreddit": "PythonLearning",
+        "author": "Miss-Dominique1352",
+        "text": "Hmm you breakdown it into 2 classes , one for users and one for server, lovely ",
+        "created": "2026-07-26T07:49:34"
+    },
+    {
+        "id": "ozte3po",
+        "subreddit": "learnpython",
+        "author": "recursion_is_love",
+        "text": "Go to sleep. Have you sleep enough?",
+        "created": "2026-07-26T07:53:42"
+    },
+    {
+        "id": "ozte99v",
+        "subreddit": "PythonLearning",
+        "author": "Miss-Dominique1352",
+        "text": "Can you explain it a little bit please ",
+        "created": "2026-07-26T07:54:55"
+    },
+    {
+        "id": "ozteckn",
+        "subreddit": "PythonLearning",
+        "author": "TheSeeker_99",
+        "text": "Is it hard? Can you do it?\n\nIt takes your commitment to learn it.\n\n![gif](giphy|aoWS2NiqwtSCmcwMgT)",
+        "created": "2026-07-26T07:55:38"
+    },
+    {
+        "id": "oztefnp",
+        "subreddit": "PythonLearning",
+        "author": "Dull-Desk-6542",
+        "text": "I am interested ",
+        "created": "2026-07-26T07:56:19"
+    },
+    {
+        "id": "ozter2n",
+        "subreddit": "PythonLearning",
+        "author": "SeaOrdinary811",
+        "text": "I\u2019m down I just started ",
+        "created": "2026-07-26T07:58:51"
+    },
+    {
+        "id": "oztf7eu",
+        "subreddit": "learnpython",
+        "author": "Salt-Subject-8164",
+        "text": "Intersted",
+        "created": "2026-07-26T08:02:27"
+    },
+    {
+        "id": "oztfu4v",
+        "subreddit": "programming",
+        "author": "rismay",
+        "text": "Genius though. ",
+        "created": "2026-07-26T08:07:28"
+    },
+    {
+        "id": "oztgepd",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "nice bud well im also 14 im also begginner can we collab",
+        "created": "2026-07-26T08:12:04"
+    },
+    {
+        "id": "oztgw3l",
+        "subreddit": "PythonLearning",
+        "author": "AbacusExpert_Stretch",
+        "text": " .... thank you, honey, for the nice comment on my comment. ",
+        "created": "2026-07-26T08:15:57"
+    },
+    {
+        "id": "oztgzyt",
+        "subreddit": "PythonLearning",
+        "author": "Originalshivam28",
+        "text": "Interested dm me  however I started already",
+        "created": "2026-07-26T08:16:50"
+    },
+    {
+        "id": "ozth1os",
+        "subreddit": "learnpython",
+        "author": "amandhiman07",
+        "text": "Set a goal of simple project like calculator or a simple game .... Watch 2 or 3 lectures of python then start making this then you sow some  new  words that make curiosity in your mind then you start enjoying python or other coding language ",
+        "created": "2026-07-26T08:17:13"
+    },
+    {
+        "id": "ozth8mx",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "ime too\n\n",
+        "created": "2026-07-26T08:18:46"
+    },
+    {
+        "id": "ozth9op",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "hey can we learn together",
+        "created": "2026-07-26T08:19:00"
+    },
+    {
+        "id": "ozthach",
+        "subreddit": "learnpython",
+        "author": "mc_pm",
+        "text": "Well, I mean, I think we all feel hard in loops.",
+        "created": "2026-07-26T08:19:09"
+    },
+    {
+        "id": "ozthcxr",
+        "subreddit": "programming",
+        "author": "nelmaloc",
+        "text": "I guess advanced users need whatever black magic GNU and BSD do outside the standard, but for what I read on your link, normal users needs should be covered.\n\n> particularly .RECIPEPREFIX allowing switching away from hard tabs as previously hinted at\n\nI'm a tabs-everywhere user, so that doesn't bother me.",
+        "created": "2026-07-26T08:19:43"
+    },
+    {
+        "id": "ozthh42",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "u can send me request in discord:apexxyujan",
+        "created": "2026-07-26T08:20:40"
+    },
+    {
+        "id": "ozthhxi",
+        "subreddit": "PythonLearning",
+        "author": "Mamuschkaa",
+        "text": "What do you mean with collab? ",
+        "created": "2026-07-26T08:20:51"
+    },
+    {
+        "id": "ozthjfi",
+        "subreddit": "programming",
+        "author": "Big_Combination9890",
+        "text": "I am not the one shoving gendering into the discussion by inventing new words.\n\nBtw. the suffix \"-ette\" is also a diminutive, so a \"programmerette\" could also be a small programmer.",
+        "created": "2026-07-26T08:21:12"
+    },
+    {
+        "id": "ozthovg",
+        "subreddit": "PythonLearning",
+        "author": "velleityfighter",
+        "text": "I'm interested and need a partner as well, DM if you still have a place",
+        "created": "2026-07-26T08:22:24"
+    },
+    {
+        "id": "ozthrte",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "i mean we learn together and make intresting project than ts",
+        "created": "2026-07-26T08:23:04"
+    },
+    {
+        "id": "oztht7w",
+        "subreddit": "learnpython",
+        "author": "powderviolence",
+        "text": "FUNCTION HAS PARAMETERS AND RETURN VALUE SO IT IS KNOWN WHAT IS INVOLVED AND COMPUTED\n\nLOOPS HAVE REPETITIONS OVER ABSTRACTED PARAMETERS SO IT MAY BE UNPREDICTABLE WHAT HAPPENS IF ONE IS UNCAREFUL\n\nYOUR CAPS LOCK IS ON AS WELL",
+        "created": "2026-07-26T08:23:23"
+    },
+    {
+        "id": "ozthxic",
+        "subreddit": "learnpython",
+        "author": "Eastern-Push-7255",
+        "text": "can we guys learn together\n\n",
+        "created": "2026-07-26T08:24:21"
+    },
+    {
+        "id": "oztigd7",
+        "subreddit": "PythonLearning",
+        "author": "Mamuschkaa",
+        "text": "I don't want to do big projects. Also I'm not beginner anymore. I have no problems in looking at your projects and giving advice. ",
+        "created": "2026-07-26T08:28:37"
+    },
+    {
+        "id": "oztigo6",
+        "subreddit": "PythonLearning",
+        "author": "Ok-Raspberry965",
+        "text": "I understand the basics - would like someone to work together with on projects\u00a0",
+        "created": "2026-07-26T08:28:41"
+    },
+    {
+        "id": "oztihmh",
+        "subreddit": "programming",
+        "author": "ChemicalRascal",
+        "text": "Yeah, the distinction there is that they're giving themselves a deadline. That is _effectively_ what scrum is doing as well, albeit by doing a common deadline for all active work instead of a deadline-per-ticket. Most implementations of bare kanbans I've heard of don't do deadlines for tickets.",
+        "created": "2026-07-26T08:28:54"
+    },
+    {
+        "id": "oztihwp",
+        "subreddit": "learnpython",
+        "author": "teetaps",
+        "text": "Think of your program as a workshop. Most people would call their main function main(), so let\u2019s call the lobby of the workshop, the main lobby. Main might call a bunch of functions, like process_data(). In our analogy, process_data() is like calling someone in the data department to do a process and send us back the result.\n\nThat \u201csend us back the result\u201d part? That\u2019s what a return _keyword_ does in a function",
+        "created": "2026-07-26T08:28:58"
+    },
+    {
+        "id": "oztikn2",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "keep it up im alsoo beginner",
+        "created": "2026-07-26T08:29:36"
+    },
+    {
+        "id": "oztitpy",
+        "subreddit": "PythonLearning",
+        "author": "Eastern-Push-7255",
+        "text": "ok but can u guide me\n\n",
+        "created": "2026-07-26T08:31:39"
+    },
+    {
+        "id": "oztj53z",
+        "subreddit": "programming",
+        "author": "kingdomcome50",
+        "text": "\u201cThe Elm Architecture\u201d isn\u2019t exactly breaking new ground lol. Believe it or not there has been *decades* of research into, and applications of state machines\u2026\n\nThe only thing special about TEA is that it offered an opinionated application of a (very simple) state machine to web-based UIs at a specific time and moment that allowed it to garner some popularity \u2014 further bolstered by its functional paradigm. End of story.\n\n(This next bit is a bit harsh and hyperbolic but needs to be said)\n\nThere is nothing interesting here. \n\nHow about you stop embarrassing yourself and fucking learn something and only t*hen* share your (now correctly framed and in-context) contributions with the rest of the world?\n\nIt\u2019s just so\u2026 tiresome to see these kinds of posts where people rediscover (in this case re-rediscover) thoroughly documented and *peer-reviewed* ideas without any acknowledgment of that fact. \n\nhttps://www.state-machine.com/doc/Harel87.pdf\n\nhttps://link.springer.com/content/pdf/10.1007/3-540-44929-9\\_24.pdf",
+        "created": "2026-07-26T08:34:11"
+    },
+    {
+        "id": "oztj8qj",
+        "subreddit": "PythonLearning",
+        "author": "GhostxUchiha",
+        "text": "I'm interested ",
+        "created": "2026-07-26T08:34:59"
+    },
+    {
+        "id": "oztjaiv",
+        "subreddit": "learnpython",
+        "author": "DonkeyTron42",
+        "text": "If you don't like loops, then use functional constructs with recursion.",
+        "created": "2026-07-26T08:35:24"
+    },
+    {
+        "id": "oztjjmf",
+        "subreddit": "learnpython",
+        "author": "flawks112",
+        "text": "Loops are hard because they are more implicit than functions. Simplify the iterative and print it out.\u00a0\n\nPS Wait until you get to generators.",
+        "created": "2026-07-26T08:37:28"
+    },
+    {
+        "id": "oztjndb",
+        "subreddit": "PythonLearning",
+        "author": "Adsilom",
+        "text": "I don't know exact sources, but look for these on university websites, as they tend to put them for free.\n\nYou may want to look for complexity courses, or data structure courses. The main difference between those types is that they allow you to perform some actions more or less quickly (this is the understanding you need as a beginner, it is more subtle than that). For example, finding an element in a list can be considered \"slow\", whereas finding an element in a set is instanteneous.\n\nThere are also differences in the way you use them. Especially, dictionnaries clearly fit a purpose that the other three structures you cited do not fit. It allows you to cleanly map one set of data to another.",
+        "created": "2026-07-26T08:38:19"
+    },
+    {
+        "id": "oztk21g",
+        "subreddit": "learnpython",
+        "author": "ap8558",
+        "text": "I start learning web dev(full stack ) from scratch ",
+        "created": "2026-07-26T08:41:39"
+    },
+    {
+        "id": "oztk8pn",
+        "subreddit": "PythonLearning",
+        "author": "Adsilom",
+        "text": "If you don't intend to work in IT, then sure don't learn Python. But don't expect to achieve anything too complex if you don't want to learn. AI is useful to be efficient when you already know how to code. If you don't know how to code, AI will maybe generate something good, maybe not. And if it does not, without knowledge, you will struggle more and more to fix the issues",
+        "created": "2026-07-26T08:43:09"
+    },
+    {
+        "id": "oztk8wh",
+        "subreddit": "learnpython",
+        "author": "JollyUnder",
+        "text": "    RecursionError: maximum recursion depth exceeded",
+        "created": "2026-07-26T08:43:11"
+    },
+    {
+        "id": "oztkafc",
+        "subreddit": "PythonLearning",
+        "author": "Mysterious_Debt4959",
+        "text": "If it's just for this specific purpose, and you're not looking to get into Python programming more generally, I honestly would not bother learning Python and would just see how far you get using Claude code or something.  Of course, it would only help you to know Python, but that's a lot to learn for a very narrow use case.",
+        "created": "2026-07-26T08:43:32"
+    },
+    {
+        "id": "oztkevi",
+        "subreddit": "programming",
+        "author": "Statharas",
+        "text": "Fitting, though",
+        "created": "2026-07-26T08:44:32"
+    },
+    {
+        "id": "oztkkxn",
+        "subreddit": "learnpython",
+        "author": "sputnki",
+        "text": "PERHAPS YOU SHOULD LEARN BASIC PROGRAMMING CONSTRUCTS IN A DIFFERENT LANGUAGE, LIKE C. PYTHON HAS MANY FANCY ABSTRACTIONS THAT MAY (see, may) PRODUCE UNEXPECTED BEHAVIOR.",
+        "created": "2026-07-26T08:45:53"
+    },
+    {
+        "id": "oztklgu",
+        "subreddit": "PythonLearning",
+        "author": "DumpsterDiver1337",
+        "text": "Write me I understand the basics too",
+        "created": "2026-07-26T08:46:00"
+    },
+    {
+        "id": "oztknpk",
+        "subreddit": "PythonLearning",
+        "author": "DumpsterDiver1337",
+        "text": "I want to be in",
+        "created": "2026-07-26T08:46:30"
+    },
+    {
+        "id": "oztkuac",
+        "subreddit": "PythonLearning",
+        "author": "moonvyrae",
+        "text": "i\u2019m interested ",
+        "created": "2026-07-26T08:47:59"
+    },
+    {
+        "id": "oztky8m",
+        "subreddit": "PythonLearning",
+        "author": "Commercial-Paper749",
+        "text": "Check dm",
+        "created": "2026-07-26T08:48:51"
+    },
+    {
+        "id": "oztl0ly",
+        "subreddit": "learnpython",
+        "author": "mjmvideos",
+        "text": "Loops are just a way to tell the computer, \u201cNow, do that again.\u201d",
+        "created": "2026-07-26T08:49:23"
+    },
+    {
+        "id": "oztl0rn",
+        "subreddit": "PythonLearning",
+        "author": "all43",
+        "text": "I would re-phrase title as - if you are Vibe-Coding, you aren't learning to code. It is totally fine to use LLM to write the whole project when you are already experienced, can steer LLM off from bad architectural decisions and check what it's output. But if you are not yet experienced you'll never learn by allowing LLM do everything instead of you",
+        "created": "2026-07-26T08:49:25"
+    }
+]

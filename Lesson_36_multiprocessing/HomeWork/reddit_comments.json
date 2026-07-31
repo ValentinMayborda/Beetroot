@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "p05loed",
+        "subreddit": "programming",
+        "author": "Otherwise_Focus7129",
+        "text": "understatement. I wouldve been thinking someone was holding a grudge against me \ud83d\ude02",
+        "created": "2026-07-28T01:44:38"
+    },
+    {
+        "id": "p05tcar",
+        "subreddit": "programming",
+        "author": "Dragon_yum",
+        "text": "I will never have a side project this cool. ",
+        "created": "2026-07-28T02:24:06"
+    },
+    {
+        "id": "p05xx8q",
+        "subreddit": "programming",
+        "author": "onated2",
+        "text": "Sqlcraft",
+        "created": "2026-07-28T02:48:13"
+    },
+    {
+        "id": "p05zjgr",
+        "subreddit": "programming",
+        "author": "neutronbob",
+        "text": "For all intents, there is no information about the language at all. No sample code, no explanation about what's different other than \"features borrowed from other languages,\" no information about the output, the supported platforms, etc.\n\nWhat possible response could anyone give you?",
+        "created": "2026-07-28T02:56:51"
+    },
+    {
+        "id": "p060azf",
+        "subreddit": "programming",
+        "author": "neutronbob",
+        "text": "Linear programming with AWK. I like it!",
+        "created": "2026-07-28T03:00:55"
+    },
+    {
+        "id": "p06j4z7",
+        "subreddit": "programming",
+        "author": "Existing_Invite7129",
+        "text": "Take my upvote in exchange for a hint when you have some time.",
+        "created": "2026-07-28T04:42:43"
+    },
+    {
+        "id": "p06sfhl",
+        "subreddit": "programming",
+        "author": "Ecksters",
+        "text": "Opus 5 specifically, the initial prompt was:\n\n>you're a veteran Postgres hacker and expert. I want 3D visualization of how Postgres works, for browser -- all its major components, presented as a 3d model, complex, with all parts zoomable, and animated, with controls -- checkpointer, bgwriter, autovacuum, walwriter, backends, walsender, etc etc etc. Imagine we need to build a 3d model of whole city. That's same level. We need this so engineers who are non-DB-experts would easily understand how it works. Design must be cool, modern, super cool, running all in browser, with controls, with camera position flying with arrow keys and mouse, zoomable, etc. Think deep how to implement it, which modern cool tech to use, and use ultracode to implement in a new directory (we'll commit it later). OK to use the most cool and most modern stuff. Think deep choose tools wisely and let's build an awesome in-browser 3d model of Postgres engine\n\nHowever, the creator liked the result so much they spent the weekend polishing it, and they're quite knowledgeable about Postgres themselves.",
+        "created": "2026-07-28T05:34:52"
+    },
+    {
+        "id": "p06urqc",
+        "subreddit": "programming",
+        "author": "redscofield",
+        "text": "It\u2019s amazing! I am flabbergasted. I\u2019m actually flabbergasted. ",
+        "created": "2026-07-28T05:48:26"
+    },
+    {
+        "id": "p070vlm",
+        "subreddit": "programming",
+        "author": "aziham",
+        "text": "I can't stop laughing \ud83e\udd23, I studied uml back then with c# and I can totally relate to this. An idea that seems great on paper but not in practice\u00a0",
+        "created": "2026-07-28T06:25:33"
+    },
+    {
+        "id": "p07i7ed",
+        "subreddit": "programming",
+        "author": "this_knee",
+        "text": "Microsoft \u2026 Microsoft . Stop trying to  \nMake everyone like you so much. You\u2019re doing great already. Just chill a little. Aight? You\u2019re fine.",
+        "created": "2026-07-28T08:23:58"
+    },
+    {
+        "id": "p07ieuu",
+        "subreddit": "programming",
+        "author": "Arnavion2",
+        "text": "Masks and predication apply to SVE but not to RISC-V, where the active vector length is controlled by a special register.",
+        "created": "2026-07-28T08:25:33"
+    },
+    {
+        "id": "p07jcj0",
+        "subreddit": "programming",
+        "author": "GoreSeeker",
+        "text": "Reminds me of Amazon's video game version of their AWS training",
+        "created": "2026-07-28T08:32:41"
+    },
+    {
+        "id": "p07kg59",
+        "subreddit": "programming",
+        "author": "programming-ModTeam",
+        "text": "r/programming is not a support forum, or the place for AskReddit-type questions.",
+        "created": "2026-07-28T08:41:10"
+    },
+    {
+        "id": "p07l3y5",
+        "subreddit": "programming",
+        "author": "RangerKarl",
+        "text": "That is a hell of a oneshot",
+        "created": "2026-07-28T08:46:17"
+    },
+    {
+        "id": "p07rm49",
+        "subreddit": "programming",
+        "author": "val_tuesday",
+        "text": "Also: code as pictures? That you can\u2019t zoom on mobile? Please use the code feature that assume substack has. Just ask your AI to do both, sloppy graphs are better than numbers in a console.",
+        "created": "2026-07-28T09:37:19"
+    },
+    {
+        "id": "p07rrp5",
+        "subreddit": "programming",
+        "author": "slvrsmth",
+        "text": "As they say, if all you have is a hammer...\n\nA dynamically generated SVG template + resvg would produce the same PNGs with considerably less resources.",
+        "created": "2026-07-28T09:38:33"
+    },
+    {
+        "id": "p07v95p",
+        "subreddit": "programming",
+        "author": "TechcraftHD",
+        "text": "Why exactly would it be better to write it in C? You'd still have to solve the exact same soundness problems but without any kind of checking if what you're doing is correct or not",
+        "created": "2026-07-28T10:05:58"
+    },
+    {
+        "id": "p07vkwc",
+        "subreddit": "programming",
+        "author": "AutoModerator",
+        "text": "Content about AI and LLMs is considered off-topic with the sole exclusion of deeply technical content about implementation. See the [AI policy](https://www.reddit.com/r/programming/wiki/ai-policy/).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/programming) if you have any questions or concerns.*",
+        "created": "2026-07-28T10:08:33"
+    },
+    {
+        "id": "p07wh6c",
+        "subreddit": "programming",
+        "author": "dkkavanagh17",
+        "text": "and have fun trying to break each other's too!",
+        "created": "2026-07-28T10:15:40"
+    },
+    {
+        "id": "p07zhv5",
+        "subreddit": "programming",
+        "author": "rahem027",
+        "text": "There is no guarantee we can do both. And code representing domain might not be a good idea depending on domain. Code should solve problems of the domain. In a way that is easy for both humans and computers. Domain is human only by nature",
+        "created": "2026-07-28T10:40:14"
+    },
+    {
+        "id": "p08358u",
+        "subreddit": "programming",
+        "author": "Lisoph",
+        "text": "> If alloc were mutable (fn alloc<'a, T>(&'a mut self, value: T)), we could only have one mutable reference even when alloc points to different slots because of the common 'a lifetime. That's a limitation of the Rust borrow checker, because the Rust compiler does not understand that different calls to alloc are independent.\n\n> We could also remove lifetimes with mutable alloc, but that would result in UB. ArenaBox would outlive the arena, and we would have dangling pointers.\n\nWow, I did not know this about Rust. That's surprising the borrow checker can't model this. Are there any plans to address this?",
+        "created": "2026-07-28T11:10:16"
+    },
+    {
+        "id": "p0857se",
+        "subreddit": "programming",
+        "author": "CornedBee",
+        "text": "If you use unsafe Rust, you can then use MIRI and other Rust checkers to test for safety issues.",
+        "created": "2026-07-28T11:27:21"
+    },
+    {
+        "id": "p085cmk",
+        "subreddit": "programming",
+        "author": "Nata_Elisym",
+        "text": "that's good news ",
+        "created": "2026-07-28T11:28:27"
+    },
+    {
+        "id": "p085qz6",
+        "subreddit": "programming",
+        "author": "KipSudo",
+        "text": "I think I've lost the ability to distinguish between reality, AI garbage, and a straight up parody site. I have a horrible feeling that was actually a real thing though...",
+        "created": "2026-07-28T11:31:46"
+    },
+    {
+        "id": "p088ngc",
+        "subreddit": "programming",
+        "author": "BlackShadow__07",
+        "text": "I'm curious whether this is mostly about improving the developer experience on Windows or if it actually makes cross-platform JavaScript development smoother. If the tooling reduces setup friction and debugging time, that's a much bigger win than just adding new features.",
+        "created": "2026-07-28T11:56:12"
+    },
+    {
+        "id": "p088oag",
+        "subreddit": "learnpython",
+        "author": "Similar_Count_1613",
+        "text": "it clicked for me when i realized that all functions that could be called recursively are saved in stack . which is first in last out and a base case to not push functions infinitely .. that was in my case . after that i was more intrigued to know the problems that recursion is actually solving it . like permutation , hanoi problem , dfs mazes ..etc then i moved on ",
+        "created": "2026-07-28T11:56:24"
+    },
+    {
+        "id": "p088ou1",
+        "subreddit": "programming",
+        "author": "max123246",
+        "text": "It's not a one shot. Did you not read where they said they spent the weekend polishing it",
+        "created": "2026-07-28T11:56:32"
+    },
+    {
+        "id": "p089195",
+        "subreddit": "programming",
+        "author": "BlackShadow__07",
+        "text": "GMP would probably solve the integer-size limitation, although it also changes the performance characteristics quite a bit. I'd be interested to know whether the 60% speedup came mostly from the sieve itself or from reducing repeated primality checks.",
+        "created": "2026-07-28T11:59:24"
+    },
+    {
+        "id": "p089kxu",
+        "subreddit": "learnpython",
+        "author": "danielroseman",
+        "text": "Did you have a question?",
+        "created": "2026-07-28T12:03:57"
+    },
+    {
+        "id": "p08a2pd",
+        "subreddit": "learnpython",
+        "author": "Ai_Engineer_1",
+        "text": "Ten-minute imports are not normal, and the most useful next step is to isolate where the delay occurs. In the same shell, time `python -c \"import numpy, polars, altair\"`, then try the same command from a local directory or local machine if your company allows it. Also check whether the virtual environment itself lives on a network-mounted path. If the import is only slow in Positron, its interpreter discovery or security scanning may be involved; if it is slow everywhere on that server, ask IT whether endpoint protection or network storage is scanning the venv. Those results will give you a concrete report instead of guessing about Python versus R.",
+        "created": "2026-07-28T12:08:01"
+    },
+    {
+        "id": "p08agvo",
+        "subreddit": "programming",
+        "author": "My_reddit_account_v3",
+        "text": "I like the idea of scrum but some people preach with a passion that is insane and disconnected. Those people ruin it for everyone because they\u2019re forcing it in areas where it doesn\u2019t make sense.",
+        "created": "2026-07-28T12:11:16"
+    },
+    {
+        "id": "p08aq2x",
+        "subreddit": "programming",
+        "author": "DigThatData",
+        "text": "claude + three.js\n\nhttps://github.com/NikolayS/PGSimCity",
+        "created": "2026-07-28T12:13:22"
+    },
+    {
+        "id": "p08awd2",
+        "subreddit": "learnpython",
+        "author": "redfacedquark",
+        "text": "> If you are running anything on a network drive \n\nBets answer yet, I was going to blame this positron I'd never heard of.",
+        "created": "2026-07-28T12:14:49"
+    },
+    {
+        "id": "p08axq2",
+        "subreddit": "learnpython",
+        "author": "redfacedquark",
+        "text": "> If you are running anything on a network drive \n\nBets answer yet, I was going to blame this positron I'd never heard of.",
+        "created": "2026-07-28T12:15:08"
+    },
+    {
+        "id": "p08b9eb",
+        "subreddit": "programming",
+        "author": "f311a",
+        "text": "It's a very hard problem, I think there were attempts, but they failed.  \nYou can't even hold two mutable references in a vector in a simple way.\n\n    fn main() {\n        let mut v = vec![1, 2, 3];\n    \n    \n        let a = &mut v[0];\n        let b = &mut v[1];\n    \n    \n        *a += 10;\n        *b += 20;\n    \n    \n        println!(\"{:?}\", v);\n\nWhich gives:\n\n    error[E0499]: cannot borrow `v` as mutable more than once at a time\n     --> <source>:5:18\n      |\n    4 |     let a = &mut v[0];\n      |                  - first mutable borrow occurs here\n    5 |     let b = &mut v[1];\n      |                  ^ second mutable borrow occurs here\n    6 |\n    7 |     *a += 10;\n      |     -------- first borrow later used here\n      |\n      = help: use `.split_at_mut(position)` to obtain two mutable non-overlapping sub-slices\n    \n\nThe current hack:\n\n    fn main() {\n        let mut v = vec![1, 2, 3];\n    \n        let (left, right) = v.split_at_mut(1);\n    \n        let a = &mut left[0];\n        let b = &mut right[0];\n    \n        *a += 10;\n        *b += 20;\n    \n        println!(\"{:?}\", v);\n    }",
+        "created": "2026-07-28T12:17:46"
+    },
+    {
+        "id": "p08c0uc",
+        "subreddit": "programming",
+        "author": "defnotthrown",
+        "text": "Seems like an experiment. I kind of like the name-based type-inference, reminds me of actually useful \"hungarian-notation\" styling with expanded conventions.  \n\nSo it's a pre-processor that generates C source with   \n1. Semi-colons inserted automatically  \n2. bolted on type inference with only local information (limited list of stdlib functions with manual return type list)  \n3. auto-inserted include statements (and linker flags passing to the actual compiler)  \n  \nSmall details like calling \";\" an operator make it kind of hard to take this as something that was even meant to be serious.",
+        "created": "2026-07-28T12:24:01"
+    },
+    {
+        "id": "p08c87v",
+        "subreddit": "learnpython",
+        "author": "Jumpy_Ranger2868",
+        "text": "Yeah dm",
+        "created": "2026-07-28T12:25:40"
+    },
+    {
+        "id": "p08ca63",
+        "subreddit": "learnpython",
+        "author": "yaxriifgyn",
+        "text": "The match & case statements are finding a lot of use in my new code \n\nI am looking forward to the lazy soft keyword in 3.15. I've found it very useful, but removing it for 3.14 is painful. Circular imports has been a problem since version 1.99 (IIRC) when I first started using Python for serious work. \n",
+        "created": "2026-07-28T12:26:07"
+    },
+    {
+        "id": "p08f9by",
+        "subreddit": "programming",
+        "author": "choice__nice__073",
+        "text": "We had much better results modernizing one part at a time instead of trying to replace everything. While looking at companies working in this area, I found Devox Software and liked that their approach is phased rather than a big rewrite.",
+        "created": "2026-07-28T12:49:55"
+    },
+    {
+        "id": "p08gzct",
+        "subreddit": "programming",
+        "author": "WillemDaFo",
+        "text": "Please share? I tried learning (and teaching) AWS about four years ago, but gave up because it was too dry for high schoolers.",
+        "created": "2026-07-28T13:03:15"
+    },
+    {
+        "id": "p08ioeq",
+        "subreddit": "learnpython",
+        "author": "Diapolo10",
+        "text": "> Of course I could use a venv, but it seems annoying to have to activate a venv each time I want to use the palette in IPython, et al.\n\nIf you're using IPython as a generic tool rather than a part of some project, you could install it via `uv` with Catpuccin (and whatever else you want) included.\n\n    uv tool install --with catpuccin ipython\n\nhttps://docs.astral.sh/uv/concepts/tools/#including-additional-dependencies\n\nIt basically puts them in their own virtual environment, but exposes `ipython` to PATH so you can easily access it without needing to think about the virtual environment at all.\n\nThe only downside is that you can't (currently) access `uv tool` installations from within active virtual environments, hence the first part of my reply.",
+        "created": "2026-07-28T13:16:05"
+    },
+    {
+        "id": "p08iqkw",
+        "subreddit": "programming",
+        "author": "RangerKarl",
+        "text": "Sure, but usually the output from an LLM isn't so amazing I'm compelled to polish it and present it. I want to know what that initial output must have been like.",
+        "created": "2026-07-28T13:16:32"
+    },
+    {
+        "id": "p08it7f",
+        "subreddit": "learnpython",
+        "author": "pedanticscientist",
+        "text": "I quite like the fact that 10 + \u201c10\u201d *isn\u2019t* possible, considering the alternatives!",
+        "created": "2026-07-28T13:17:05"
+    },
+    {
+        "id": "p08j429",
+        "subreddit": "learnpython",
+        "author": "Jejerm",
+        "text": "Importing should be pretty much instant",
+        "created": "2026-07-28T13:19:20"
+    },
+    {
+        "id": "p08j9xg",
+        "subreddit": "learnpython",
+        "author": "MaintenanceOk1775",
+        "text": "Interesting idea, I am fully in!",
+        "created": "2026-07-28T13:20:35"
+    },
+    {
+        "id": "p08jiwd",
+        "subreddit": "learnpython",
+        "author": "Hot-Butterscotch1306",
+        "text": "Yeah the indent thing is the actual bug, but also you don\u2019t really need a getter here. In Python it\u2019s pretty normal to just read Chamber.chamberList directly unless you need extra logic later. \n\nTiny detail, but that makes this kind of class-level registry feel less Java-ish and easier to debug when you\u2019re printing stuff mid-maze.",
+        "created": "2026-07-28T13:22:24"
+    },
+    {
+        "id": "p08jkmx",
+        "subreddit": "programming",
+        "author": "ReDucTor",
+        "text": "Some feedback\n\n1. Your hazard pointer slots seem unnecessary, your not overlapping regions of one acquiring and one releasing, the name `PointerCount` also seems a strange choice for any of those use cases you could just create a new `HazardPointer` instance and you would use the same amount of space and reduce the amount of pointers to be scanned.\n\n2. With a queue you typically have one set of producers and one set of consumder not every thread functions as both as sender and a receiver however with your `tcBuff` and it's assocation with `ThreadCount` seems to indicate that this is the case.\n\n3. With `FastQueueNode` being bounded for `Push` you can do a `fetch_add` and check if it's above `Size` and throw away if it is otherwise store the data and set the flag.\n\n4. You should stop abusing `FORCE_INLINE` lot of these functions are not simple and it will compile time and potentially even runtime with heavily abusing `FORCE_INLINE`\n\n5. atomic::notify can be a system call and pretty expensive, typically you want to only do this when it is known that something is waiting, you don't want to add 1000 items with only 1 thread that is consuming and never ends up needing to wait and you've just done 1000 more syscalls on the producer side\n\n6. Using `atomic_flag` with `test_and_set` when your just discarding the result on x86 is typically going to result in an `xchg` (on clang, gcc, and msvc) where if you just used an `atomic<bool>` with `store` and `memory_order_release` it will be a normal `mov` \n\n7. The `FastQueueNode::Pop` with blocking does not look like it will not block if the queue is empty, only if the entry has been allocated filled but not filled. The same with the higher `FastQueue::Pop` often it's useful for a MPMC to be the one that controls when threads go to sleep and wake \n\n8. Functions like `IsEmpty` are dangerous to have on a queue, they are potentially invalid by the time they return, especially if you expect to use those because pop does not do proper blocking.\n\n9. Does `FastQueueNode` need `seq_cst`, you mention in the post about global consistency with the hazard pointer tracking however it does not use hazard pointers internally only `FastQueue` does\n\n10. Is global ordering gurantees needed for the `HazardPointer`? You want nothing to move out of the `Protect`/`Release` range and nothing moving beyond `Retire`, then for any `Scan` to have a full view of the other threads `Protect`ed pointers globally so the pointer that is protected should not need the seq_cst however the stored hazard pointer will probably need it for a global ordering however you might be able to get away with release + seq_cst fence\n\n11. You might want to use `memory_order_release` for `FastQueueNodeSlot::Reset` to ensure that it is resetting after it has been used.\n\n12. With the check for `currentTail->next` being `nullptr` you essentially force there to always be atleast two `FastQueueNode`'s even if it was a single thread producing and consuming its own items\n\n13. You retire while protected so it can never immediately succeed",
+        "created": "2026-07-28T13:22:46"
+    },
+    {
+        "id": "p08ki5p",
+        "subreddit": "PythonLearning",
+        "author": "Upstairs_Jelly_1082",
+        "text": "For this specific thing, you could take these steps\n\n1. Make functions for all things that you want the program to do (add card function, shuffle card function, draw card function) and print out the result\n\n2. Main menu to choose what you want to do (add cards, shuffle, draw card)\n\n3. handle user input from the main menu and call the function\n\nI think that will be a good starting point. You can start with storing the cards inside a list, dictionary is going to be a bit difficult to start from.",
+        "created": "2026-07-28T13:29:34"
+    },
+    {
+        "id": "p08ko2o",
+        "subreddit": "learnpython",
+        "author": "LowerAd2627",
+        "text": "Strat tutorial which is recently upload, but best suggestions is forget YouTube it take a lot of time strat from documentation and article first Clear things like why are you learning python either it's for development or either it for ml or agentic ai when you find it out than find out the whole syllables and split into Sprint than strat learning what you are coding, let analyze cpython implementation than go into ai and which topic you study ask ai to generate hard questions on that topic and solve the question and throughout the learning journey don't ever use ai for coding give time daily small consistent steps matters\u00a0",
+        "created": "2026-07-28T13:30:45"
+    },
+    {
+        "id": "p08m0r7",
+        "subreddit": "PythonLearning",
+        "author": "Appropriate-Comb4462",
+        "text": "Hola, por si te interesa he desarrollado una app, son retos con una historia que te ayudan a aprender a programar en Python mediante bloques, por si quieres darle un vistazo esta en https://bloquepy.world\u00a0",
+        "created": "2026-07-28T13:40:36"
+    },
+    {
+        "id": "p08mc69",
+        "subreddit": "programming",
+        "author": "AutoModerator",
+        "text": "r/programming is not the place to post a project to get feedback, ask for help, or otherwise promote it.\n\nTechnical write-ups on what makes a project technically challenging, interesting, or educational are allowed and encouraged, but just a link to a GitHub page or a list of features is not allowed.\n\nThe technical write-up must be the focus of the post, not just a tickbox-checking exercise to get us to allow it. This is a technical subreddit.\n\nWe don't care what you built, we care how you build it.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/programming) if you have any questions or concerns.*",
+        "created": "2026-07-28T13:42:55"
+    },
+    {
+        "id": "p08mkkg",
+        "subreddit": "learnpython",
+        "author": "redfacedquark",
+        "text": ">The biggest thing that i have build till date is the backend for a task management app using FastAPI,SQLite,JWTauth and CRUD APIs. I also used the help of AI to do things because this was the first time that I build somethign that has a full fledge backend+databse.\n\nSo if you discount the code written by AI, what is the largest/most complex thing you have built in Python so far?",
+        "created": "2026-07-28T13:44:39"
+    },
+    {
+        "id": "p08muxv",
+        "subreddit": "learnpython",
+        "author": "Ant-Bear",
+        "text": "Yes. If anything, if we wanted weak typing, it would make sense to cast the less permissive types like _int_ to the more permissive ones, like _str_, which would make 10 + '10' = '1010'.",
+        "created": "2026-07-28T13:46:47"
+    },
+    {
+        "id": "p08n581",
+        "subreddit": "PythonLearning",
+        "author": "sccccrrrrt",
+        "text": "Restructure some random data and present it nicely.\n\nI usually use python to make shit from an some random api into proper Logs",
+        "created": "2026-07-28T13:48:52"
+    },
+    {
+        "id": "p08nknh",
+        "subreddit": "PythonLearning",
+        "author": "silvertank00",
+        "text": "Your examples:\n- cache: there is a highly customizable builtin one [functools.cache](https://docs.python.org/3/library/functools.html#functools.cache)\n- schedulers: again, builtin: [sched.scheduler](https://docs.python.org/3/library/sched.html#sched.scheduler) but beginers beware: you dont need this. Not even advanced users. Heck, in my work life I encountered one custom scheduler and it was frowned upon by everyone and alltogether was a burder (and keep in mind, it was built by experts) One usecase would be embedded, but even there you have RTOS.\n- retry logic: something like C#'s polly lib would be nice. I usually make retry policies by hand but some of them are really not trivial to implement. \n- rate limiters: this would be highly framework dependent, no?  We already have these for the big frameworks but I am interested what did you think of.\n- streaming utils: I am in a bit of a pickle here (no pun intended) but do you mean data streams or content streaming? For data we have a bunch of builtin solutions like: [io.StringIO](https://docs.python.org/3/library/io.html#io.StringIO)\n- search: list/dict/set comprehensions are REALLY fast (bonus if you know about some iter() magic) but we have pandas, polar, numpy for optimal searching, why do we need an other?",
+        "created": "2026-07-28T13:51:58"
+    },
+    {
+        "id": "p08nz4c",
+        "subreddit": "learnpython",
+        "author": "VoiceOfEric",
+        "text": "You may have a need to write code that performs faster in production. You may need a job but can't find one doing Python. Many reasons.",
+        "created": "2026-07-28T13:54:53"
+    },
+    {
+        "id": "p08pdkk",
+        "subreddit": "PythonLearning",
+        "author": "sccccrrrrt",
+        "text": "What you want is a UUID",
+        "created": "2026-07-28T14:05:09"
+    },
+    {
+        "id": "p08pqwi",
+        "subreddit": "programming",
+        "author": "arauhala",
+        "text": "I wrote this, so flagging the bias up front: I build in this space :-)\n\nThe core claim is that almost every application treats the user as the inference engine. The data lives in the software, but the decisions live in you, in every form field, routing choice, category and approval. That was rational engineering: when each prediction costs a pipeline, a model, a training set, monitoring and an on-call rotation for drift, you cherry-pick the two or three use cases with obvious ROI and leave everything else manual. You get apps that are intelligent in spots and manual everywhere else.\n\nThe post is about what changes when the per-prediction cost collapses toward the cost of a database query. I am not claiming it is all solved, and I am genuinely curious where people think the argument breaks, especially on the \"correct engineering judgment\" part, since that is the load-bearing bit.",
+        "created": "2026-07-28T14:07:53"
+    },
+    {
+        "id": "p08qixh",
+        "subreddit": "programming",
+        "author": "Tekuzo",
+        "text": "The user interface from Jurassic Park was real. It was called [FSN and it was developed by Silicon Graphics.](https://blog.adafruit.com/2024/02/06/fsn-the-irix-3d-file-system-tool-from-jurassic-park-arttuesday-vintagecomputing-jurassicpark-whoopsie/)",
+        "created": "2026-07-28T14:13:40"
+    },
+    {
+        "id": "p08rmo6",
+        "subreddit": "learnpython",
+        "author": "AlokoAdrian",
+        "text": "Bro ty, i didnt see your message yesterday! \n\nI havent seen anything about dicts yet, but i feel like i should look at this, i feel that for a 1 month and a half im kinda nice, but i still dont understand how could i make the input validation with strings, i need to think more about..\n\nalso, im sorry about the names, i didnt know i should code everything in english, thats a really new information to me. \n\nAlso dayum ive never heard of doc strings.. im noting all this so i can remember im my next projetc with oop.\n\nabout the numval, ure completely right, i should make a function to prevent coding the same lines every time..\n\nty bro, ill add u so u can see my improvement in the next project <3",
+        "created": "2026-07-28T14:21:53"
+    },
+    {
+        "id": "p08s0za",
+        "subreddit": "learnpython",
+        "author": "ConcreteExist",
+        "text": "Doing everything on a network drive is going to be much slower. ",
+        "created": "2026-07-28T14:24:49"
+    },
+    {
+        "id": "p08ts6l",
+        "subreddit": "learnpython",
+        "author": "Much-Associate-6141",
+        "text": "AI can be a good teacher, if used as a learning companion, not as a shortcut.",
+        "created": "2026-07-28T14:37:31"
+    },
+    {
+        "id": "p08u8hs",
+        "subreddit": "programming",
+        "author": "PayOdd92",
+        "text": "Are you teaching AWS based on AWS services themselves? I found it super dry at first but the more I worked in IT and I interacted with on premise stuff the better I understood how useful AWS/cloud services are.",
+        "created": "2026-07-28T14:40:28"
+    },
+    {
+        "id": "p08v76u",
+        "subreddit": "learnpython",
+        "author": "terletsky",
+        "text": "If you are interested in cybersecurity, I would recommend writing a CLI app that sends a local file or a specified URL to the VirusTotal API for malware scanning. This is a real-world example of something built in companies by Python Backend/AppSec/DevSecOps roles.\n\nBy writing this, you will cover:\n\n1. Basic Python syntax and structures (strings, dicts, tuples, lists, sets). Application entry point\n2. Loops\n3. File I/O\n4. Basic networking and API (request methods like GET/POST, server status codes)\n5. JSON format and how to handle it\n6. Basics of CLI application with all the whistles (nice colors, cool ASCII banner, etc)\n7. Exception handling and propagation\n8. Basic OOP and familiarization with SOLID/DRY principles\n9. Logging\n\nIf not that, then a CLI to get weather from the Weather API that covers everything (just not file upload, but save raw data to file, for example)",
+        "created": "2026-07-28T14:46:28"
+    },
+    {
+        "id": "p08w880",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "Geez, I have been programming in Python for years and this is way better than I could even dream of! Well Done! ",
+        "created": "2026-07-28T14:52:26"
+    },
+    {
+        "id": "p08x8uk",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "well what I would do is you can search for ways to write certain pieces of code online, so that can help if you are really stuck. And, if you are worried that you might forget how to do something in future (for example, create a function), you can write a comment using # and then writing your comment, which won't get run as code, but it can help for future reference.",
+        "created": "2026-07-28T14:58:10"
+    },
+    {
+        "id": "p08xgc5",
+        "subreddit": "learnpython",
+        "author": "Final_Weight_3836",
+        "text": "obrigado",
+        "created": "2026-07-28T14:59:21"
+    },
+    {
+        "id": "p08xw0a",
+        "subreddit": "learnpython",
+        "author": "nicodeemus7",
+        "text": "I started on a browser IDE but quickly moved to Pycharm to be able to save and organize my files and have the plugins that make my life easier.",
+        "created": "2026-07-28T15:01:49"
+    },
+    {
+        "id": "p08xxqq",
+        "subreddit": "learnpython",
+        "author": "RacsoBot",
+        "text": "Basically whenever I face a problem and solved by searching in SO or LLM, I see if it fits my goal and then I am like ok lets run this piece of code line by line, check what happens if i change some arguments (yes, I still read the docs as well). All that in jupyter notebooks or google colab. Oh yes, If the code is something took me a while to solve I will create a small reproducible script example for the future me.",
+        "created": "2026-07-28T15:02:06"
+    },
+    {
+        "id": "p08y2o2",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "Just... HOW??\n\nthe best thing I have ever made in Python would probably be \u2013 I don't even know...\n\ntbf I am 12 but that is still only a 2 yr difference...\n\nI can only wish I could make something like this! Kudos to you!",
+        "created": "2026-07-28T15:02:52"
+    },
+    {
+        "id": "p08y2zs",
+        "subreddit": "learnpython",
+        "author": "CodeSamur-ai",
+        "text": "I think it\u2019s all about early wins. If you can get students writing Python, learning the syntax, understanding variables and their different types, and building functions right away, they\u2019ll feel like they\u2019re making real progress. Then, when it\u2019s time to cover things like setting up their development environment, which can be pretty dry, they\u2019re already invested and much more likely to stick with it.",
+        "created": "2026-07-28T15:02:55"
+    },
+    {
+        "id": "p08yxnu",
+        "subreddit": "PythonLearning",
+        "author": "Standard_Iron6393",
+        "text": "i have checked your website, it looks good",
+        "created": "2026-07-28T15:07:42"
+    },
+    {
+        "id": "p08z6xe",
+        "subreddit": "learnpython",
+        "author": "Intelligent-Boss-156",
+        "text": "I would say my philosophy is don't overthink things ie. don't add bulky software where it's not necessary.  ",
+        "created": "2026-07-28T15:09:06"
+    },
+    {
+        "id": "p08z8ky",
+        "subreddit": "PythonLearning",
+        "author": "riklaunim",
+        "text": "> I often see beginners spend a lot of time dealing with installation, PATH issues, virtual environments, and editor configuration before writing their first Python program. \n\nI really doubt it. Not enough to justify $999 prices ;)\n\n",
+        "created": "2026-07-28T15:09:21"
+    },
+    {
+        "id": "p08zde4",
+        "subreddit": "PythonLearning",
+        "author": "armyrvan",
+        "text": "I would recommend finding one in your timezone to make it worth while.  Because having the right environment is one thing but when you are on opposite sides of the globe is another.   \n\n\nhttps://preview.redd.it/funu8p6noyfh1.jpeg?width=940&format=pjpg&auto=webp&s=1afed543cf24aba5512833cce3c5a5c6de23a886",
+        "created": "2026-07-28T15:10:06"
+    },
+    {
+        "id": "p08zk09",
+        "subreddit": "PythonLearning",
+        "author": "riklaunim",
+        "text": "So a useless language with custom syntax, no support, no market demand and with no third party libraries.\n\nIt's already very easy to create GUI apps.",
+        "created": "2026-07-28T15:11:07"
+    },
+    {
+        "id": "p08zxr4",
+        "subreddit": "learnpython",
+        "author": "terletsky",
+        "text": "As a person who mentors/teaches Python developers from scratch, I would go with the local environment. Currently, it's just several steps to accomplish that, like in the real world:\n\n1. Install the \"uv\" package manager: https://docs.astral.sh/uv/getting-started/installation/\n2. Initialize a new project with \"uv init your-cool-project-name\" (it will create a directory and default project files inside with a \"main.py\" file with a Hello World example inside.\n3. Create a virtual environment with \"uv sync\" with the Python version specified in the previously created .python-version file, which, currently, is \"3.14\"\n4. You're good! Edit and run \"python main.py\" or \"uv run main.py\"\n\n\nFor an IDE, I would go with PyCharm. It's an industry standard.",
+        "created": "2026-07-28T15:13:12"
+    },
+    {
+        "id": "p0900o9",
+        "subreddit": "learnpython",
+        "author": "acw1668",
+        "text": "You can manually install the module:\n\n- download the module wheel file:\n\n    `pip download catppuccin`\n\n- create the user `site-packages` folder if it does not exist (assume using Python 3.14):\n\n    `mkdir -p ~/.local/lib/python3.14/site-packages`\n\n- unzip the wheel file into the user `site-packages`:\n\n    `unzip catppuccin-2.5.0-py3-none-any.whl -d ~/.local/lib/python3.14/site-packages/`",
+        "created": "2026-07-28T15:13:38"
+    },
+    {
+        "id": "p0908b0",
+        "subreddit": "learnpython",
+        "author": "randomraluana",
+        "text": "Learning in the browser is definitely a good start, to dive right into Python and the syntax and the features and avoid setup isses, but I think dealing with issues is one or the most valuable ways to learn and understand how everything works together. Learning how to setup your environment is for me an important part of being a programmer as well. I understood Python and any other language because of the issues I faced along the way including in setting up the environment. There's a lot of valuable experiences in that and it makes you feel a bit more well-rounded.",
+        "created": "2026-07-28T15:14:48"
+    },
+    {
+        "id": "p090hq7",
+        "subreddit": "programming",
+        "author": "ChrisRR",
+        "text": "So it's exactly the same as C but you don't have to use semicolons?",
+        "created": "2026-07-28T15:16:15"
+    },
+    {
+        "id": "p091bfr",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "well...\n\nat the moment, yes, but it is only in the development phases at the moment. Plus I am 12. So go ahead, criticise it.",
+        "created": "2026-07-28T15:20:43"
+    },
+    {
+        "id": "p091qe5",
+        "subreddit": "learnpython",
+        "author": "iMagZz",
+        "text": "Beginners should use Pycharm og VsCode in my opinion, immediately. It really isn't that difficult to set up. There are plenty of short and easy to understand tutorials out there, and it just makes life way easier.",
+        "created": "2026-07-28T15:22:55"
+    },
+    {
+        "id": "p091wqu",
+        "subreddit": "PythonLearning",
+        "author": "Sea-Ad7805",
+        "text": "There are many FREE browser-based Python learning environment out there already. Useful features are, if you ask me:\n- integrated debugger tool\n- visualization of the program state\n\nLike here: [making different copies](https://memory-graph.com/#breakpoints=8&continues=1&play)",
+        "created": "2026-07-28T15:23:50"
+    },
+    {
+        "id": "p091z3o",
+        "subreddit": "learnpython",
+        "author": "B4SSF4C3",
+        "text": "On the one hand, an IDE can seem overwhelming to a beginner. On the other hand, ultimately that\u2019s what you\u2019ll be using and setting up once is more efficient and you may as well learn what you\u2019ll be using. On the other other hand, browser setup is very easy and fast so it\u2019s sort of a free option.\n\nI do think a Jupyter notebook in a browser is a great way to learn though, and especially to teach. The code is broken into digestible chunks. You can have nicely formatted explanations in between the chunks. You get visual output of each chunk you run. It\u2019s very slick. But also, I do think it\u2019s best as a beginner, teaching, or maybe a documentation tool. When it\u2019s time to start actually working on a project, it\u2019s time to move on.",
+        "created": "2026-07-28T15:24:11"
+    },
+    {
+        "id": "p0929dw",
+        "subreddit": "learnpython",
+        "author": "DuckDatum",
+        "text": "I just use \\`uv\\`. I haven\u2019t explicitly made a venv in over a year. I do make my pyproject.toml by hand, though.",
+        "created": "2026-07-28T15:25:41"
+    },
+    {
+        "id": "p092frv",
+        "subreddit": "learnpython",
+        "author": "terletsky",
+        "text": "I go with the initial setup first. It's pretty simple and quick these days.",
+        "created": "2026-07-28T15:26:37"
+    },
+    {
+        "id": "p092lr3",
+        "subreddit": "PythonLearning",
+        "author": "riklaunim",
+        "text": "You age has nothing to do with this. You aren't a software developer, yet you are assuming you know better and trying to solve non-existent problems using very clumsy methods. Age doesn't shield from making mistakes or from failure.",
+        "created": "2026-07-28T15:27:28"
+    },
+    {
+        "id": "p09418c",
+        "subreddit": "PythonLearning",
+        "author": "Sea-Ad7805",
+        "text": "Deep nesting (if-statements in if-statements in ...) makes the code hard to read and hard to change later. Speed is not a concern here, so make the code easy to read and change. Using dictionaries is one way to do that, or [split it in different functions](https://memory-graph.com/#code=def%20ask_yes_no(question)%3A%0A%20%20%20%20while%20True%3A%0A%20%20%20%20%20%20%20%20answer%20%3D%20input(f%22%7Bquestion%7D%20(yes%2Fno)%3A%20%22).strip().lower()%0A%0A%20%20%20%20%20%20%20%20if%20answer%20in%20%7B%22yes%22%2C%20%22y%22%7D%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20True%0A%0A%20%20%20%20%20%20%20%20if%20answer%20in%20%7B%22no%22%2C%20%22n%22%7D%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20False%0A%0A%20%20%20%20%20%20%20%20print(%22Please%20enter%20yes%20or%20no.%22)%0A%0A%0Adef%20result(character)%3A%0A%20%20%20%20return%20f%22Your%20character%20is%20%7Bcharacter%7D!%22%0A%0A%0Adef%20identify_witch()%3A%0A%20%20%20%20if%20ask_yes_no(%0A%20%20%20%20%20%20%20%20%22Is%20your%20character%20currently%20sealed%20in%20a%20prison%20of%20shadows%3F%22%0A%20%20%20%20)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Satella%22)%0A%0A%20%20%20%20return%20check_drowned()%0A%0A%0Adef%20check_drowned()%3A%0A%20%20%20%20if%20ask_yes_no(%0A%20%20%20%20%20%20%20%20%22Did%20your%20character%20drown%20after%20becoming%20trapped%20%22%0A%20%20%20%20%20%20%20%20%22within%20Priestella's%20defences%3F%22%0A%20%20%20%20)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Typhon%20(Witch%20of%20Pride)%22)%0A%0A%20%20%20%20return%20check_waterfall()%0A%0A%0Adef%20check_waterfall()%3A%0A%20%20%20%20if%20ask_yes_no(%0A%20%20%20%20%20%20%20%20%22Did%20your%20character%20fall%20from%20the%20Great%20Waterfall%20%22%0A%20%20%20%20%20%20%20%20%22while%20fighting%20the%20Divine%20Dragon%3F%22%0A%20%20%20%20)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Sekhmet%20(Witch%20of%20Sloth)%22)%0A%0A%20%20%20%20return%20check_restraints()%0A%0A%0Adef%20check_restraints()%3A%0A%20%20%20%20if%20ask_yes_no(%0A%20%20%20%20%20%20%20%20%22Does%20your%20character%20wear%20a%20blindfold%20or%20restraints%20%22%0A%20%20%20%20%20%20%20%20%22such%20as%20a%20straitjacket%3F%22%0A%20%20%20%20)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Daphne%20(Witch%20of%20Gluttony)%22)%0A%0A%20%20%20%20return%20check_shyness()%0A%0A%0Adef%20check_shyness()%3A%0A%20%20%20%20if%20ask_yes_no(%22Is%20your%20character%20extremely%20shy%20or%20timid%3F%22)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Carmilla%20(Witch%20of%20Lust)%22)%0A%0A%20%20%20%20return%20check_white_hair()%0A%0A%0Adef%20check_white_hair()%3A%0A%20%20%20%20if%20ask_yes_no(%22Does%20your%20character%20have%20white%20hair%3F%22)%3A%0A%20%20%20%20%20%20%20%20return%20result(%22Echidna%20(Witch%20of%20Greed)%22)%0A%0A%20%20%20%20return%20result(%22Minerva%20(Witch%20of%20Wrath)%22)%0A%0A%0Adef%20play()%3A%0A%20%20%20%20print(%22Welcome%20to%20the%20Re%3AZero%20character%20guessing%20game!%22)%0A%20%20%20%20print(identify_witch())%0A%0A%0Aplay()\u00d7tep=1&play).",
+        "created": "2026-07-28T15:35:01"
+    },
+    {
+        "id": "p094ejj",
+        "subreddit": "programming",
+        "author": "GoreSeeker",
+        "text": "It's called Cloud Quest: https://skillbuilder.aws/search?page=1&typeId=aws_cloud_quest",
+        "created": "2026-07-28T15:36:56"
+    },
+    {
+        "id": "p094gy4",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "OK, I understand where you are coming from now. And yes, I understand about the age thing. But I can still try to make a programming language, and nothing can stop that. It doesn't have to be something people use every day, or even once a year. It just has to be something I am happy with. So yes, there are problems. Yes, I am using clumsy methods. But have you even done anything close to it? I don't think so.",
+        "created": "2026-07-28T15:37:17"
+    },
+    {
+        "id": "p094oh5",
+        "subreddit": "PythonLearning",
+        "author": "tiredITguy42",
+        "text": "Good for you, but please, next time share the code as code, not like shitty screenshot. It is so low resolution I am just guessing what you wrote there.",
+        "created": "2026-07-28T15:38:22"
+    },
+    {
+        "id": "p094onz",
+        "subreddit": "learnpython",
+        "author": "FoolsSeldom",
+        "text": "I thought your work was good, especially for someone that's only been learning for a short while. My aim was to give useful feedback ready for your next project.\n\n> also, im sorry about the names, i didnt know i should code everything in english, thats a really new information to me.\n\nNo need to apologise. I was simply advising you to avoid *cryptic* variable/function/module names in future. You are free to use whatever human language you prefer and know well, just keep in mind that whilst names are familiar whilst you are working intensively on something, when you come back to it after a break or working on some other code or when you ask others for help, those names may not mean very much.\n\nHere's an example of a simple `input` validation for some basic menu options.\n\n    ...\n    OPTIONS = \"1\", \"2\", \"3\", \"X\"  # this is a tuple of strings\n    ...\n\nNote: ALL CAPITAL variable names is a convention in Python to indicate a CONSTANT - data that never changes once assigned.\n\n    ...\n    while True:  #  infinite loop, use break to leave it\n        option = input('What option would you like? ').lower().strip()\n        if option in OPTIONS:  # check if option entered is valid\n            break  # leave while loop, go onto next block of code\n        print('I am sorry, that option is not available.')\n        print('Please choose again.')\n        # goes around loop again now\n    ...\n\nNo need to check for invalid options after this point as that is trapped by the `while` loop.\n\n    ...\n\n    if option == \"1\":\n        do option 1 stuff\n    elif option == \"2\":\n        do option 2 stuff\n    ...\n\nNote that the `.lower` method on `str` objects forces the string to all lowercase - doesn't make a difference on digit characters, but for letters, it means you only have to check, in this case, for `\"x\"` and not for `\"x\"` and `\"X\"`. This is even more useful where you are accepting longer entries, such as `\"Go North\"` in a game. The `.strip` method removes and leading/trailing white spaces from a string.",
+        "created": "2026-07-28T15:38:24"
+    },
+    {
+        "id": "p094qpv",
+        "subreddit": "PythonLearning",
+        "author": "Outside-Trouble-4232",
+        "text": "holy flame but yh I saw it, I dont see too much the point its not too hard to learn ui, and his version is kinda pointless you are just making it harder to learn python ",
+        "created": "2026-07-28T15:38:42"
+    },
+    {
+        "id": "p094y8h",
+        "subreddit": "learnpython",
+        "author": "B4SSF4C3",
+        "text": "Not very exciting but my first thing I did myself, well before i touched python professionally, was write a regex based script to apply standardized naming convention to my mp3 collection. /Artist/album/## song name.extension. It was simple, I didn\u2019t even plug into the available music databases (would have been a cool extension of the project).\n\n\u2026but then I moved to Apple and iTunes and it didn\u2019t matter anymore lol",
+        "created": "2026-07-28T15:39:48"
+    },
+    {
+        "id": "p09538o",
+        "subreddit": "PythonLearning",
+        "author": "Professional_Help167",
+        "text": "Why do we need pyplus?  Python3 is already verry good",
+        "created": "2026-07-28T15:40:31"
+    },
+    {
+        "id": "p096go0",
+        "subreddit": "PythonLearning",
+        "author": "Jumpy_Gap6375",
+        "text": "Well the aim of Python+ is to be Python with a few tweaks (which haven't been added yet because it is still in development) to make it feel nicer. As a user of Python myself I find it quite annoying to use a few little things, like make a GUI which is one of the biggest goals for Python+ at the moment, but probably won't be implemented until v1.0. If you're interested in the project in any way, or if you feel like it could be more, I will very happily look over any suggestions you may have!",
+        "created": "2026-07-28T15:47:34"
+    },
+    {
+        "id": "p0974cc",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "\"I am creating\" an album, containing photos, with description and a music player that plays files. FLAC, and videos can also be played with the help of VLC, I understand.:) \n\nThe code already works, but I already stumbled upon the \"visual,\" there I can't do much with the AI. ",
+        "created": "2026-07-28T15:50:54"
+    },
+    {
+        "id": "p0976tm",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "Thank you very much! I'll review it. ",
+        "created": "2026-07-28T15:51:15"
+    },
+    {
+        "id": "p097a9n",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "Thank you! I'll write to you soon. ",
+        "created": "2026-07-28T15:51:43"
+    },
+    {
+        "id": "p097dk4",
+        "subreddit": "PythonLearning",
+        "author": "Zahiba",
+        "text": "Sure ",
+        "created": "2026-07-28T15:52:11"
+    },
+    {
+        "id": "p097fbo",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "Thank you! I will read each one. ",
+        "created": "2026-07-28T15:52:26"
+    },
+    {
+        "id": "p097iwg",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "Gracias! Si debo aprenser, debe ser bien :d",
+        "created": "2026-07-28T15:52:55"
+    },
+    {
+        "id": "p097ov8",
+        "subreddit": "programming",
+        "author": "MrHandSanitization",
+        "text": "True V(ibe)S Code editor experience!",
+        "created": "2026-07-28T15:53:45"
+    },
+    {
+        "id": "p0985bx",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "My project is like a \"memory album\" where you can see photos and videos, and I also included a player that reproduces files. FLAC, and I want to improve the interface a little, but the lack of knowledge and AI is a little limited in it, I could only make it functional and with an \"interface,\" not unpleasant, but not pretty or to my liking. ",
+        "created": "2026-07-28T15:56:03"
+    },
+    {
+        "id": "p0987ye",
+        "subreddit": "PythonLearning",
+        "author": "Fabulous_Gold2050",
+        "text": "Thank you! ",
+        "created": "2026-07-28T15:56:25"
+    },
+    {
+        "id": "p098xy6",
+        "subreddit": "PythonLearning",
+        "author": "DumbPlants-yt",
+        "text": "I fixed it.",
+        "created": "2026-07-28T16:00:01"
+    },
+    {
+        "id": "p099ueh",
+        "subreddit": "learnpython",
+        "author": "EntrepreneurHuge5008",
+        "text": "[OSSU](https://github.com/ossu/computer-science) \\- Supposed to be the \"open\" version of a full CS curriculum. I did my undergrad at a brick-and-mortar long before I knew this even existed, so I have no idea if the resources are all free, but take a look and let us know.",
+        "created": "2026-07-28T16:04:32"
+    },
+    {
+        "id": "p099upr",
+        "subreddit": "learnpython",
+        "author": "No_Presentation_9922",
+        "text": "its on the Releases page. there both code and .exe for people who are insecure about downloading random things from the internet.",
+        "created": "2026-07-28T16:04:35"
+    },
+    {
+        "id": "p09axa3",
+        "subreddit": "PythonLearning",
+        "author": "ConcernFeisty4914",
+        "text": "Yeahh!! I just did\n",
+        "created": "2026-07-28T16:09:50"
+    },
+    {
+        "id": "p09b458",
+        "subreddit": "learnpython",
+        "author": "Idonotknow9856",
+        "text": " My guess would be the company setup. A remote server, slow network storage, antivirus, or IT restrictions can all make installs and imports much slower than expected.",
+        "created": "2026-07-28T16:10:46"
+    },
+    {
+        "id": "p09bwjy",
+        "subreddit": "learnpython",
+        "author": "pachura3",
+        "text": "I think starting in browser is a GREAT idea for beginners and I would really recommend it. PATH issues and setting up virtual environments BEFORE you can even type 1 line of code can be really discouraging.\n\nHeck, pupils can even go to [https://www.w3schools.com/python/trypython.asp?filename=demo\\_default](https://www.w3schools.com/python/trypython.asp?filename=demo_default) and start playing with Python right away, without logging in or anything.",
+        "created": "2026-07-28T16:14:37"
+    },
+    {
+        "id": "p09bymy",
+        "subreddit": "learnpython",
+        "author": "AlokoAdrian",
+        "text": "ty bro! i really dont know a lot, but i already started a new project, and now im using different things and ill improve! [https://prnt.sc/pFVLcUHRInjj](https://prnt.sc/pFVLcUHRInjj)  \nsee you in some days",
+        "created": "2026-07-28T16:14:53"
+    },
+    {
+        "id": "p09ckj2",
+        "subreddit": "learnpython",
+        "author": "CodeyGrammar",
+        "text": "I'm making an app with the back end as python, but wondering for the customer facing side, does python make sense too for things like: Login, Chat Box, create/edit/delete Posts (some of the standard things in certain apps) or would you recommend another programming language than Python for those aspects?",
+        "created": "2026-07-28T16:17:49"
+    },
+    {
+        "id": "p09coin",
+        "subreddit": "learnpython",
+        "author": "Idonotknow9856",
+        "text": "It depends on how you're updating the loading screen. In most cases you don't actually \"delete\" the previous text. Instead, you move the cursor back to the beginning of the current line using \\r (carriage return) and print the new character over the top of it.",
+        "created": "2026-07-28T16:18:20"
+    },
+    {
+        "id": "p09cxm4",
+        "subreddit": "learnpython",
+        "author": "Idonotknow9856",
+        "text": "MOOC.",
+        "created": "2026-07-28T16:19:32"
+    },
+    {
+        "id": "p09dgbz",
+        "subreddit": "PythonLearning",
+        "author": "PythonLearning-ModTeam",
+        "text": "Quality posts only",
+        "created": "2026-07-28T16:22:02"
+    },
+    {
+        "id": "p09e43n",
+        "subreddit": "programming",
+        "author": "AutoModerator",
+        "text": "r/programming is not the place to post a project to get feedback, ask for help, or otherwise promote it.\n\nTechnical write-ups on what makes a project technically challenging, interesting, or educational are allowed and encouraged, but just a link to a GitHub page or a list of features is not allowed.\n\nThe technical write-up must be the focus of the post, not just a tickbox-checking exercise to get us to allow it. This is a technical subreddit.\n\nWe don't care what you built, we care how you build it.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/programming) if you have any questions or concerns.*",
+        "created": "2026-07-28T16:25:11"
+    },
+    {
+        "id": "p09e9z4",
+        "subreddit": "learnpython",
+        "author": "WyrobWedliniarski",
+        "text": "What do you mean? You just write code in any text editor and save it as [somefilename.py](http://somefilename.py)  \nI could only guess what creating file from terminal could be, but if you meant just creating an empty file it would be:\n\n`touch` [`somefilename.py`](http://somefilename.py)",
+        "created": "2026-07-28T16:25:56"
+    },
+    {
+        "id": "p09ekod",
+        "subreddit": "PythonLearning",
+        "author": "Sea-Ad7805",
+        "text": "Run the \"Quick Start\" example program in [Memory Graph Web Debugger](https://memory-graph.com/#micropip=pythonstl&code=from%20pythonstl%20import%20stack%2C%20queue%2C%20vector%2C%20stl_set%2C%20stl_map%2C%20priority_queue%0A%0A%23%20Stack%20(LIFO)%20-%20Now%20with%20Python%20magic%20methods!%0As%20%3D%20stack()%0As.push(10)%0As.push(20)%0Aprint(s.top())%20%20%20%20%20%20%23%2020%0Aprint(len(s))%20%20%20%20%20%20%20%23%202%20-%20Python%20len()%20support%0Aprint(bool(s))%20%20%20%20%20%20%23%20True%20-%20Python%20bool()%20support%0A%0A%23%20Vector%20(Dynamic%20Array)%20-%20With%20iterators!%0Av%20%3D%20vector()%0Av.push_back(100)%0Av.push_back(200)%0Av.push_back(300)%0Av.reserve(1000)%20%20%20%20%20%23%20Pre-allocate%20capacity%0Aprint(len(v))%20%20%20%20%20%20%20%23%203%0Aprint(200%20in%20v)%20%20%20%20%20%23%20True%20-%20Python%20'in'%20operator%0A%0A%23%20Iterate%20using%20STL-style%20iterators%0Afor%20elem%20in%20v.begin()%3A%0A%20%20%20%20print(elem)%0A%0A%23%20Or%20use%20Python%20iteration%0Afor%20elem%20in%20v%3A%0A%20%20%20%20print(elem)%0A%0A%23%20Set%20(Unique%20Elements)%20-%20With%20magic%20methods%0As%20%3D%20stl_set()%0As.insert(5)%0As.insert(10)%0Aprint(5%20in%20s)%20%20%20%20%20%20%20%23%20True%0Aprint(len(s))%20%20%20%20%20%20%20%23%202%0A%0A%23%20Map%20(Key-Value%20Pairs)%20-%20With%20iteration%0Am%20%3D%20stl_map()%0Am.insert(%22key1%22%2C%20100)%0Am.insert(%22key2%22%2C%20200)%0Aprint(%22key1%22%20in%20m)%20%20%23%20True%0Afor%20key%2C%20value%20in%20m%3A%0A%20%20%20%20print(f%22%7Bkey%7D%3A%20%7Bvalue%7D%22)%0A%0A%23%20Priority%20Queue%20-%20With%20comparator%20support%0Apq_max%20%3D%20priority_queue(comparator%3D%22max%22)%20%20%23%20Max-heap%20(default)%0Apq_min%20%3D%20priority_queue(comparator%3D%22min%22)%20%20%23%20Min-heap%0Apq_max.push(30)%0Apq_max.push(10)%0Apq_max.push(20)%0Aprint(pq_max.top())%20%20%23%2030\u00d7tep=1&play) to see the program state change step by step.",
+        "created": "2026-07-28T16:27:20"
+    },
+    {
+        "id": "p09esoe",
+        "subreddit": "PythonLearning",
+        "author": "Emulated-VAX",
+        "text": "You learn coding by doing. Use PyCharm for help and auto complete/suggestions. As AI to write sections, but then carefully inspect and understand what is written, and try to improve on it.\n\nIn the end you have to write code to learn code. I learned Python by using it to design useful projects that would benefit me personally.",
+        "created": "2026-07-28T16:28:22"
+    },
+    {
+        "id": "p09g38c",
+        "subreddit": "programming",
+        "author": "AutoModerator",
+        "text": "Content about AI and LLMs is considered off-topic with the sole exclusion of deeply technical content about implementation. See the [AI policy](https://www.reddit.com/r/programming/wiki/ai-policy/).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/programming) if you have any questions or concerns.*",
+        "created": "2026-07-28T16:34:24"
+    },
+    {
+        "id": "p09gw5i",
+        "subreddit": "learnpython",
+        "author": "desrtfx",
+        "text": "The currently best Python beginner course, the MOOC [Python Programming 2026](https://programming-26.mooc.fi) from the Univerxity of Helsinki, starts in the browser to eliminate the initial hurdle of setting up a local development environment and later (at part 4) switches to a local environment consisting of Python, VSCode with the official MS Python extension and with their TMC (Test My Code) plugin. Full installation instructions for major OS are provided.\n\nYes, starting in the browser can ease entry.\n\nDirectly starting with a local development environment adds another battlefront to the already two (*programming language* and *programming*) a learner faces. \n\nThe missing autocomplete and syntax highlighting forces the learner to concentrate on the first couple keywords instead of getting everything suggested, which makes it a bit more difficult, but also more beneficial as some \"muscle memory\" is established.\n\n----\n\nNext time, write your posts yourself without AI.",
+        "created": "2026-07-28T16:38:08"
+    },
+    {
+        "id": "p09hve2",
+        "subreddit": "programming",
+        "author": "Blue_Moon_Lake",
+        "text": "Altering an older commit to fix a typo is quite okay to me.",
+        "created": "2026-07-28T16:42:39"
+    },
+    {
+        "id": "p09i4e2",
+        "subreddit": "PythonLearning",
+        "author": "MasterpieceBusy7220",
+        "text": "You\u2019re going to have a hard time getting anyone to pay for this considering all of this can be learned for free",
+        "created": "2026-07-28T16:43:49"
+    },
+    {
+        "id": "p09iwn4",
+        "subreddit": "PythonLearning",
+        "author": "Miserable-Series1209",
+        "text": "call centers drain energy faster than memory leaks. stick to python, servers don't complain.",
+        "created": "2026-07-28T16:47:25"
+    },
+    {
+        "id": "p09izr8",
+        "subreddit": "learnpython",
+        "author": "pachura3",
+        "text": "I think you should learn the basics of Python first, and only then move on to Jupyter Notebooks. Otherwise you'll be lost & confused.",
+        "created": "2026-07-28T16:47:47"
+    },
+    {
+        "id": "p09j501",
+        "subreddit": "PythonLearning",
+        "author": "SnooCalculations7417",
+        "text": "Much",
+        "created": "2026-07-28T16:48:27"
+    },
+    {
+        "id": "p09jav7",
+        "subreddit": "learnpython",
+        "author": "Moikle",
+        "text": "An api isn't a specific tool.\n\nAn api is just the public facing part of any program. You can use the spotify api to query data about the songs you are listening to, for example, or the api for a video editing program you mught be using.",
+        "created": "2026-07-28T16:49:12"
+    },
+    {
+        "id": "p09k2k3",
+        "subreddit": "learnpython",
+        "author": "Moikle",
+        "text": "A .py file is literally just text. There is nothing magical about it that means it needs to be created from some python program.\n\nYou can make a .py file in notepad.\n\nMost people use an ide like vscode or pycharm just for all the features that make things more convenient.\n\nOh and jupyter notebooks is not python.\n\nIt is a (often local) webpage based tool that also allows you to embed python code. It is not \"how you write python code\"\n\nAs someone else has said, avoid jupyter notebooks until you learn some of the basics of python first, otherwise you are trying to learn two things at once.",
+        "created": "2026-07-28T16:52:41"
+    },
+    {
+        "id": "p09kh5w",
+        "subreddit": "programming",
+        "author": "CherryLongjump1989",
+        "text": "My solution has been: switch to Zig.  You get to choose any kind of allocator you want without having to bend over backwards to get around the borrow checker.",
+        "created": "2026-07-28T16:54:30"
+    },
+    {
+        "id": "p09lhuv",
+        "subreddit": "PythonLearning",
+        "author": "Infamous_Tough_3772",
+        "text": "India",
+        "created": "2026-07-28T16:59:04"
+    },
+    {
+        "id": "p09ljxa",
+        "subreddit": "PythonLearning",
+        "author": "Infamous_Tough_3772",
+        "text": "Tysm",
+        "created": "2026-07-28T16:59:19"
+    },
+    {
+        "id": "p09lmg1",
+        "subreddit": "PythonLearning",
+        "author": "Infamous_Tough_3772",
+        "text": "So?",
+        "created": "2026-07-28T16:59:37"
+    },
+    {
+        "id": "p09mcfx",
+        "subreddit": "PythonLearning",
+        "author": "-goldenboi69-",
+        "text": "Do you know the name of his favourite salad?",
+        "created": "2026-07-28T17:02:53"
+    },
+    {
+        "id": "p09n3ed",
+        "subreddit": "PythonLearning",
+        "author": "PythonLearning-ModTeam",
+        "text": "Keep it respectfull",
+        "created": "2026-07-28T17:06:16"
+    },
+    {
+        "id": "p09n5ls",
+        "subreddit": "learnpython",
+        "author": "danielroseman",
+        "text": "The \"Python terminal\" and \"Jupyter notebook\" are completely different things. And you don't create py files in either of them, you create files in a text editor or IDE.",
+        "created": "2026-07-28T17:06:33"
+    },
+    {
+        "id": "p09nj4o",
+        "subreddit": "PythonLearning",
+        "author": "maw501",
+        "text": "Your plan is solid, but I think it's aimed at a different job to the one you actually want.\n\nPySpark, Fabric, Databricks and cloud are mostly *data engineering* tools - building and running the pipelines that move data around. A data analyst role is mostly SQL (a lot of it), a BI tool, spreadsheets, some statistics, and being able to explain a result to someone non-technical. \n\nIf that's actually the role you want then you probably need to rejig things to be roughly like this:\n\n1. **SQL, far deeper than you're planning.** Joins, window functions, CTEs, aggregation. This is the actual job, and it's pretty unglamorous at times. Most analyst interviews have a SQL screen at some stage.\n2. **Python for analysis** \\- pandas, plus enough numpy that it doesn't confuse you (e.g. broadcasting etc...). I'd skip PySpark for now - seems like a nice-to-have at the moment.\n3. **A BI tool.** Power BI if aiming for finance.\n4. **Statistics** \\- depending on your background / math level this can differentiate you. e.g. sampling and what a confidence interval actually means etc...\n5. **One real project, end to end.** Real data, ideally focussed on a key problem / question with a clear conclusion.\n\nAlso, for all the advice you get, don't forget you're a finance student. You're not going to out-engineer people who've been coding for years. I worked in finance for \\~10 years and what never ages badly is someone with a technical background who understands the business and can bridge between the (likely messy) data and commercial understanding. That's worth more than any single framework.\n\nNote I'm ignoring AI in this but you absolutely need to keep a handle on latest developments and how the tools impact the areas you're interested in.",
+        "created": "2026-07-28T17:08:16"
+    },
+    {
+        "id": "p09nrau",
+        "subreddit": "PythonLearning",
+        "author": "Warningshots01",
+        "text": "Nesting hell",
+        "created": "2026-07-28T17:09:18"
+    },
+    {
+        "id": "p09om86",
+        "subreddit": "programming",
+        "author": "programming-ModTeam",
+        "text": "Content about AI and LLMs is considered off-topic with the sole exclusion of deeply technical content about implementation. See the [AI policy](https://www.reddit.com/r/programming/wiki/ai-policy/).",
+        "created": "2026-07-28T17:13:09"
+    },
+    {
+        "id": "p09ommq",
+        "subreddit": "PythonLearning",
+        "author": "fildline",
+        "text": "A scrolling driving game like this was one of my first programs back in the 70\u2019s using special characters on the Ohio Scientific C1P. Nice work! ",
+        "created": "2026-07-28T17:13:12"
+    },
+    {
+        "id": "p09os3f",
+        "subreddit": "PythonLearning",
+        "author": "Owen-Isaac-2022",
+        "text": "I hope you got the team you wanted. Learning as a team counts a lot & one learns faster. With more practice, you'll master the concepts and processes very fast.",
+        "created": "2026-07-28T17:13:53"
+    },
+    {
+        "id": "p09qzuj",
+        "subreddit": "PythonLearning",
+        "author": "atarivcs",
+        "text": "Telling us you get \"weird errors\" is not enough detail.\n\nTell us what you _expected_ the code to do, and what happened instead.\n\nAlso tell us what input you used.",
+        "created": "2026-07-28T17:23:40"
+    },
+    {
+        "id": "p09s4af",
+        "subreddit": "programming",
+        "author": "george-lin",
+        "text": "Exactly. Dependency choices often reveal whether an ecosystem prioritizes stability, experimentation, or\n\n  convenience\u2014and I liked that the talk framed those differences as cultural rather than purely technical.",
+        "created": "2026-07-28T17:28:35"
+    },
+    {
+        "id": "p09t6t0",
+        "subreddit": "PythonLearning",
+        "author": "neil_perree",
+        "text": "Im interested\n",
+        "created": "2026-07-28T17:33:19"
+    },
+    {
+        "id": "p09utxd",
+        "subreddit": "programming",
+        "author": "Sermuns",
+        "text": "This conference \"Software Should Work\" seems to consist of banger after banger presentation!",
+        "created": "2026-07-28T17:40:30"
+    },
+    {
+        "id": "p09vgtn",
+        "subreddit": "learnpython",
+        "author": "MysteriousStrangerXI",
+        "text": "I can't find any use cases why you need to do this though. Just creating .txt file changing the extension from .txt to .py, you'll have your own python executable file.\n\nTo answer your question, you can use exclamation point '!' in Jupyter Notebook to execute system command. In your case !touch filename.py will create filename.py in your .ipynb location.\n\nIf you're bulk creating .py files, use terminal without exclamation as originally intended.\n e.g: touch filename1.py filename2.py",
+        "created": "2026-07-28T17:43:17"
+    },
+    {
+        "id": "p09wk0d",
+        "subreddit": "programming",
+        "author": "Sermuns",
+        "text": "TLDR? Or is there any substance here or just slop?",
+        "created": "2026-07-28T17:48:02"
+    },
+    {
+        "id": "p09xii1",
+        "subreddit": "learnpython",
+        "author": "Tall_Poetry4736",
+        "text": "Shall I ",
+        "created": "2026-07-28T17:52:13"
+    },
+    {
+        "id": "p09y6hx",
+        "subreddit": "PythonLearning",
+        "author": "Jlrit0",
+        "text": "i recommend naming your variables more specific to not confuse you or anyone else reading your code in the future, tho this is simple ",
+        "created": "2026-07-28T17:55:05"
+    },
+    {
+        "id": "p09z316",
+        "subreddit": "PythonLearning",
+        "author": "Alarming_Mulberry551",
+        "text": "Ok  will keep this in mind\n",
+        "created": "2026-07-28T17:59:00"
+    }
+]

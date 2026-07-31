@@ -1,0 +1,16 @@
+{
+  "tuple": [
+    3,
+    4,
+    5
+  ],
+  "list": [
+    1,
+    2.4
+  ],
+  "dict": {
+    "a": 1
+  },
+  "string": "Hello world",
+  "bool": true
+}

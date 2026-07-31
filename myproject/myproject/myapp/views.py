@@ -1,0 +1,12 @@
+import datetime
+from django.http import HttpResponse
+
+
+def hello_world(request):
+    return HttpResponse("hello world")
+
+
+def current_time(request):
+    now = datetime.datetime.now()
+    html = f'<h1>Поточний час</h1><p>Зараз:{now.strftime('%Y-%m-%d %H:%M:%S')}</p>'
+    return HttpResponse(html)
