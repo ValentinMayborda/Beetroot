@@ -1,0 +1,105 @@
+-- SELECT job_id, job_title, min_salary, max_salary FROM jobs WHERE min_salary > 10000;
+
+-- Створення таблиці
+-- CREATE TABLE users (
+--     id SERIAL PRIMARY KEY,
+--     username VARCHAR(255) NOT NULL
+-- );
+
+-- Додати новий стовпець
+-- ALTER TABLE users ADD COLUMN temp NUMERIC;
+-- ALTER TABLE users MODIFY - не працює
+
+-- Перейменувати таблицю
+--ALTER TABLE users RENAME TO users_old;
+
+-- Перейменувати назву колонки
+--ALTER TABLE users_old RENAME COLUMN temp TO temp2;
+
+-- Видалення стовбця
+-- ALTER TABLE users_old DROP COLUMN temp2;
+
+-- Видалення таблиці
+--DROP TABLE users_old;
+
+-- ВСТАВКА
+-- INSERT INTO departments (department_id, depart_name, manager_id, location_id)
+-- VALUES  (333, 'SALES', 1, 5);
+
+/*
+-- ОНОВЛЕННЯ ПОЛЯ
+UPDATE departments
+SET location_id = location_id + 1,
+    manager_id = 555
+WHERE location_id = 6; */
+
+-- ВИДАЛЕНЯ ЗА УМОВОЮ
+-- DELETE FROM departments
+-- WHERE location_id = 7;
+
+--ЗАПИТИ
+--SELECT *FROM departments; <- Великий гріх на проді
+-- SELECT first_name, last_name, salary
+-- FROM employees;
+
+-- SELECT first_name, last_name, salary
+-- FROM employees WHERE first_name == 'Lex';
+
+-- ПРИКЛАДИ завдання
+-- Виведіть імена та прізвища всіх співробітників у вигляді єдиного поля "Повне ім'я".
+-- SELECT
+--     first_name || ' ' || last_name AS "Повне ім'я"
+-- FROM employees;
+
+--Вивидіть унікальні значення зарплат в компанії
+-- SELECT DISTINCT salary
+-- FROM employees
+-- WHERE salary IS NOT NULL;
+
+-- Отримайте список всіх співробітників, відсортованих за зарплатою від найбільшої до найменшої.
+-- SELECT
+--     first_name AS "Ім'я",
+--     last_name AS "Прізвище",
+--     salary AS "Зарплата"
+-- FROM employees
+-- ORDER BY salary DESC;
+-- --ASC від найменшої до найбільшої
+
+-- Розрахуйте розмір премії для кожного співробітника у розмірі 15% від зарплати.
+-- SELECT
+--     first_name AS "Ім'я",
+--     last_name AS "Прізвище",
+--     salary AS "Зарплата",
+--     ROUND(salary * 0.15, 5) AS "Премія"
+-- FROM employees;
+
+-- Знайдіть суму зарплат усіх співробітників по кожному відділу.
+-- SELECT
+--     department_id AS "ID відділу",
+--     SUM(salary) AS "Загальна сума зарплат"
+-- FROM employees
+-- GROUP BY department_id;
+
+-- Визначте середню зарплату в компанії та кількість співробітників.
+-- SELECT
+--     AVG(salary) AS "Середня зарплата",
+--     COUNT(*) AS "Кількість співробітників"
+-- FROM employees;
+
+
+-- -- Виведіть список співробітників, у яких зарплата більша за 5000.
+-- SELECT *
+-- FROM employees
+-- WHERE salary > 5000;
+--
+-- -- Знайдіть перші 5 співробітників з найвищою зарплатою.
+-- SELECT *
+-- FROM employees
+-- ORDER BY salary DESC
+-- LIMIT 10;
+--
+-- -- Визначте середню зарплату в компанії та кількість співробітників.
+-- SELECT
+--     AVG(salary) AS "Середня зарплата",
+--     COUNT(*) AS "Кількість співробітників"
+-- FROM employees;
