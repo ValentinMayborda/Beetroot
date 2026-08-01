@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Notes app</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="/">Головна</a>
+        <a href="/about">Про нас</a>
+
+    </nav>
+</header>
+
+<h1>Ласкаво просимо до нашого додатку!</h1>
+<h2>Заголовок розділу</h2>
+<h3>{{title}}</h3>
+
+<p class="card">{{message}}</p>
+<!--<p style="color:red; font-size: 24px;">Це проста сторінка для демонтрації</p>-->
+<ul>
+    {% for product in products %}
+        <li>{{product}}</li>
+    {% endfor %}
+</ul>
+
+
+
+<img src="https://planbphoto.com/wp-content/uploads/Serze.jpg">
+<br><a href='https://www.ukr.net' target="_blank">Перейти на сайт</a>
+
+</body>
+</html>
