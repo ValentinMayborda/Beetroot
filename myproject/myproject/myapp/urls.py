@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import hello_world, current_time, greet, calculator, show_files,show_headers, random_number
+from .views import hello_world, current_time, greet, calculator, show_files,show_headers, random_number, book_list
 
 urlpatterns = [
     path('hello/', hello_world),
@@ -11,5 +11,6 @@ urlpatterns = [
     path('headers/', show_headers),
     path('random/', random_number),
     path('random/<int:min_num>/<int:max_num>/', random_number),
+    path('books/', book_list, name='book_list'),
 ]
 

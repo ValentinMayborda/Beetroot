@@ -3,6 +3,7 @@ from django.http import HttpResponse
 import os
 import random
 from django.shortcuts import render
+from .models import Author, Book
 
 
 
@@ -95,3 +96,12 @@ def show_headers(request):
 def random_number(request,min_num=1,max_num=100):
     number = random.randint(min_num, max_num)
     return HttpResponse(f'Випадкове число {number}')
+
+def book_list(request):
+    books = Book.objects.all()
+    return render(request, 'book_list.html', {'books': books})
+
+def author_detail(request,author_id):
+    author = Author.objects.get(id=author_id)
+    books = author.books.all()
+    return render(request, 'author_detail.html', {'author': author, 'books': books})

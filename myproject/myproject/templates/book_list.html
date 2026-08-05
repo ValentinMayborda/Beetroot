@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Бібліотека</title>
+</head>
+<body>
+<h1>Наші книги</h1>
+<ul>
+    {% for book in books %}
+    <li>
+        {{ book.title }} - {{ book.author}}
+        {% if book.avaiblable %}
+        (Доступна)
+        {% else %}
+        (Видана)
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
