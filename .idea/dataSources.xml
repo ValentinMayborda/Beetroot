@@ -8,5 +8,19 @@
       <jdbc-url>jdbc:sqlite:C:\Users\NoName\PycharmProjects\Beetroot\Lesson_31\HR.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="db.sqlite3" uuid="acc650ff-a11b-4fdf-9169-84aedfbd79e9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\NoName\PycharmProjects\Beetroot\myproject\myproject\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Notes.db" uuid="a99402b3-ff2b-4e92-809e-5d763f1e2d66">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\NoName\PycharmProjects\Beetroot\djangoproject_home\notes_app\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

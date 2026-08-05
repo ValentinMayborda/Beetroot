@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Note app</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+
+</head>
+<body>
+<div class="container">
+<h1 style='text-align: center'>Мої нотатки</h1>
+
+{% for note in notes %}
+
+    <h2>{{ note.title }}</h2>
+
+    <p>{{ note.text }}</p>
+
+    <p>{{ note.reminder }}</p>
+
+    <p>Category: {{ note.category.title }}</p>
+
+    <hr>
+
+{% endfor %}
+</div>>
+</body>
+</html>
